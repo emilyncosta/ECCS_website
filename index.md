@@ -8,4 +8,4 @@ This is a simple start of my very own professional presence on the internet and 
 
 I am a Researcher in Microbiology and I've completed my PhD. in February 2018. 
 
-Please refer to my academic education and experience here on http://academia.emilyncosta.com/
+Please refer to my academic education and experience here on [academia.emilyncosta.com](http://academia.emilyncosta.com/)
