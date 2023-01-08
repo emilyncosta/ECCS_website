@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Emilyn Costa Conceição",
-  tagline: "Emilyn Costa Conceição's personal website.",
+  title: "Emilyn Costa Conceição Sharma",
+  tagline: "Emilyn Costa Conceição Sharma's personal website.",
   url: "https://emilyncosta.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -10,6 +10,9 @@ module.exports = {
   organizationName: "emilyncosta",
   projectName: "emilyncosta.com",
   themeConfig: {
+    colorMode: {
+      disableSwitch: true
+    },
     navbar: {
       // title: "Emilyn Costa Conceição",
       logo: {
@@ -26,10 +29,10 @@ module.exports = {
         { to: "blog", label: "Blog", position: "left" },
       ],
     },
-    googleAnalytics: {
-      trackingID: "TODO",
-      anonymizeIP: false,
-    },
+    // googleAnalytics: {
+    //   trackingID: "TODO",
+    //   anonymizeIP: false,
+    // },
     footer: {
       style: "dark",
       links: [],
@@ -55,10 +58,10 @@ module.exports = {
           postsPerPage: 10,
           feedOptions: {
             type: "all",
-            title: `TODO`, // default to siteConfig.title
-            description: `TODO`, // default to  `${siteConfig.title} Blog`
-            copyright: `Copyright © ${new Date().getFullYear()}, All rights reserved. Emilyn Costa Conceição`,
-            language: undefined, // possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
+            // title: `TODO`, // default to siteConfig.title
+            // description: `TODO`, // default to  `${siteConfig.title} Blog`
+            copyright: `Copyright © ${new Date().getFullYear()}, All rights reserved. Emilyn Costa Conceicão Sharma`,
+            language: "pr-BR", // possible values: http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes
           },
         },
         theme: {

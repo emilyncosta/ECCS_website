@@ -5,6 +5,9 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
+import { SocialIcon } from 'react-social-icons';
+import EmilynCostaImageUrl from "@site/static/img/emilyncosta.png";
+
 
 export default function Home() {
   const context = useDocusaurusContext();
@@ -12,52 +15,49 @@ export default function Home() {
   return (
     <Layout
       title={`Home Page`}
-      description="Emilyn Costa Conceição (emilyncosta) personal website."
+      description="Emilyn Costa Conceição Sharma's (@emilyncosta) personal website."
     >
       <main>
-        <div class="hero shadow--lw">
+
+
+        <div class="hero">
           <div class="container">
-            <h1 class="hero__title">Emilyn Costa Conceição</h1>
-            <p class="hero__subtitle"></p>
-            <div>
-              <a
-                class="button button--outline button--secondary"
-                href="https://github.com/emilyncosta"
-              >
-                Github
-              </a>
+            <div class="row row--no-gutters">
+              <div class="col"> </div>
 
-              <a
-                class="button button--outline button--secondary"
-                href="https://www.linkedin.com/in/emilyncosta"
-              >
-                LinkedIn
-              </a>
+              <div class="col col--offset-4">
+                <div class="col--offset">
+                   <img src={EmilynCostaImageUrl} width={250} height={310} /> 
+                </div>
+                <p class="hero__subtitle">
+                  <p>
+                    {'Emilyn ❤️ Science and Education'}
+                  </p>
+                </p>
 
-              <a
-                class="button button--outline button--secondary"
-                href="https://www.researchgate.net/profile/Emilyn_Conceicao"
-              >
-                Research Gate
-              </a>
+                <div>
+                  <span class="margin--sm">  <SocialIcon url="https://github.com/emilyncosta" /></span>
+                  <span class="margin--sm"> <SocialIcon url="https://www.linkedin.com/in/emilyncosta" /> </span>
+                  <span class="margin--sm"> <SocialIcon url="https://twitter.com/emilyncosta" /> </span>
+                </div>
 
-              <a
-                class="button button--outline button--secondary"
-                href="https://ufrj.academia.edu/EmilynCosta"
-              >
-                Academic.edu
-              </a>
+                <div />
+                <div />
+                <div />
 
-              <a
-                class="button button--outline button--secondary"
-                href="https://twitter.com/emilyncosta"
-              >
-                Twitter
-              </a>
+                {/* <div class="margin-top--sm padding-top--sm"> */}
+                {/*   {"BioSharp OÜ is a company registered in"} */}
+                {/* </div> */}
+
+              </div>
+
             </div>
+
           </div>
         </div>
+
+
       </main>
-    </Layout>
+    </Layout >
   );
 }
