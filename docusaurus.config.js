@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/emilyncosta.png",
+  favicon: "img/emilyncosta.jpg",
   organizationName: "emilyncosta",
   projectName: "emilyncosta.com",
   themeConfig: {
@@ -14,10 +14,10 @@ module.exports = {
       disableSwitch: true
     },
     navbar: {
-      // title: "Emilyn Costa Conceição",
+      // title: "Emilyn Costa Conceição Sharma",
       logo: {
         alt: "Emilyn Costa Conceição Home Page",
-        src: "img/emilyncosta.png",
+        src: "img/emilyncosta.jpg",
       },
       items: [
         // {
@@ -54,7 +54,7 @@ module.exports = {
           editUrl:
             "https://github.com/facebook/docusaurus/edit/master/website/blog/",
           blogSidebarCount: "ALL",
-          blogSidebarTitle: "Previous scribblings",
+          blogSidebarTitle: "Posts",
           postsPerPage: 10,
           feedOptions: {
             type: "all",

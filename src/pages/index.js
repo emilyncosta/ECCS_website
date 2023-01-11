@@ -6,7 +6,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import styles from "./styles.module.css";
 import { SocialIcon } from 'react-social-icons';
-import EmilynCostaImageUrl from "@site/static/img/emilyncosta.png";
+import EmilynCostaImageUrl from "@site/static/img/emilyncosta.jpg";
 
 
 export default function Home() {
@@ -27,7 +27,7 @@ export default function Home() {
 
               <div class="col col--offset-4">
                 <div class="col--offset">
-                   <img src={EmilynCostaImageUrl} width={250} height={310} /> 
+                   <img src={EmilynCostaImageUrl} width={270} height={270} /> 
                 </div>
                 <p class="hero__subtitle">
                   <p>
