@@ -9,7 +9,7 @@ resources:
   - CNAME
 
 website:
-  title: "Chris von Csefalvay"
+  title: "Emilyn Costa"
   description: "Chris von Csefalvay is a computational epidemiologist/data scientist working at the intersection of AI, epidemiology and public health."
   navbar:
     left:

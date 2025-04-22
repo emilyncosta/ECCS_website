@@ -1,34 +1,34 @@
 ---
-title: "Chris von Csefalvay"
+title: "Emilyn Costa Conceição"
 about:
     template: trestles
     links:
         - icon: linkedin
           text: LinkedIn
-          url: https://www.linkedin.com/in/chrisvoncsefalvay/
+          url: https://www.linkedin.com/in/emilyncosta/
         - icon: twitter
           text: Twitter
-          url: https://twitter.com/epichrisis
+          url: https://x.com/emilyncosta
         - icon: github
           text: Github
-          url: https://github.com/chrisvoncsefalvay
+          url: https://github.com/emilyncosta
         - icon: instagram
           text: Instagram
-          url: https://www.instagram.com/chrisvoncsefalvay/
+          url: https://www.instagram.com/emilyncosta
         - text: "{{< fa envelope >}} Email"
-          url: mailto:chris+website@chrisvoncsefalvay.com
+          url: mailto:emilyncosta@gmail.com
         - text: "{{< ai orcid >}} ORCID 0000-0003-3131-0864"
-          url: https://orcid.org/0000-0003-3131-0864
+          url: https://orcid.org/0000-0002-7445-6620
         - text: "{{< ai google-scholar >}} Google Scholar"
-          url: https://scholar.google.com/citations?user=X_2G-VsAAAAJ
-        - text: "{{< ai viaf >}} VIAF 7190162669581955500004"
-          url: http://viaf.org/viaf/7190162669581955500004
-        - text: "{{< ai isni >}} ISNI 0000 0005 0265 5729"
-          url: https://isni.org/isni/0000000502655729
+          url: https://scholar.google.com.br/citations?user=QfjcZKoAAAAJ&hl=pt-BR
+#        - text: "{{< ai viaf >}} VIAF 7190162669581955500004"
+#          url: http://viaf.org/viaf/7190162669581955500004
+#        - text: "{{< ai isni >}} ISNI 0000 0005 0265 5729"
+#          url: https://isni.org/isni/0000000502655729
         - text: "{{< ai researcherid >}} RID IZD-6900-2023"
-          url: https://www.webofscience.com/wos/author/record/IZD-6900-2023
-        - text: "{{< ai osf >}} OSF"
-          url: https://osf.io/awhgj
+          url: https://www.webofscience.com/wos/author/record/K-1170-2015
+#       - text: "{{< ai osf >}} OSF"
+#          url: https://osf.io/awhgj
 image: img/IMG_5986.jpeg
 comments: false
 ---
