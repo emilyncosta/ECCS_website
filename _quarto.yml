@@ -29,7 +29,7 @@ website:
         text: My book
   
   page-footer:
-    left: "(c) Chris von Csefalvay, 2011–. [Disclaimer](disclaimer)"
+    left: "(c) Emilyn Costa, 2025–. [Disclaimer](disclaimer)"
   twitter-card: true
   open-graph: true
   google-analytics: "395640625"
