@@ -37,67 +37,75 @@ comments: false
 {"@context":"http://www.schema.org","@type":"person","name":"Chris von Csefalvay","jobTitle":"Director of Biomedical AI/ML","height":"74 inches","gender":"male","description":"Chris von Csefalvay is a computational epidemiologist and data scientist working at the intersection of AI/ML, computational dynamics and public health. He is the author of Computational Modeling of Infectious Disease and a number of research papers.","url":"https://chrisvoncsefalvay.com","image":"https://chrisvoncsefalvay.com/img/IMG_5986.jpeg","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","postalCode":"80204","addressCountry":"United States"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"University of Oxford","sameAs":"https://en.wikipedia.org/wiki/University_of_Oxford"},{"@type":"CollegeOrUniversity","name":"Cardiff University","sameAs":"https://en.wikipedia.org/wiki/Cardiff_University"}],"worksFor":[{"@type":"Organization","name":"HCLTech"}],"birthDate":"1986-07-15","birthPlace":"Budapest, Hungary","memberOf":[{"@type":"Organization","name":"Royal Society for Public Health"},{"@type":"Organization","name":"TOPRA"},{"@type":"Organization","name":"IEEE"}],"nationality":[{"@type":"Country","name":"United Kingdom"},{"@type":"Country","name":"Hungary"}]}
 </script>
 
+<div style="text-align: justify">
+
 ## Bio
 
-I'm a computational epidemiologist and data scientist working at the intersection of AI/ML, computational dynamics and public health. I am the author of [Computational Modeling of Infectious Disease](https://computationalinfectiousdisease.com), a richly illustrated compendium on modern computational epidemiology, as well as [a growing body of research](papers).
+Hi, I’m Emilyn Costa Conceição Sharma — a biologist by training 🧬, a microbiologist by passion 🔬, and someone who spends a suspicious amount of time thinking about bacteria most people can’t even pronounce 😄.
 
-I attended the University  of Oxford for my undergraduate studies, graduating with a distinction (1st class), and returned there for my graduate studies. I also hold degrees from Cardiff and Robert Gordon University Aberdeen, and have studied at the University of Leiden under an Erasmus programme. Today, I am [board certified in public health](https://cph.nbphe.org/employer_letter/19626), a Fellow of the [Royal Society for Public Health](https://www.rsph.org.uk/) and a member of several other learned societies. I have also been elected a Senior Member of IEEE, where I am a member of the EMBS Technical Committee on Standards and the EMBS Technical Committee on Biomedical and Health Informatics.
+I graduated in Biological Sciences from the Federal University of Pará (UFPA) in 2010 🎓, earned my master’s in Parasitic Biology in the Amazon from the State University of Pará (UEPA) in 2012 🦠, and completed my PhD in Microbiology at the Federal University of Rio de Janeiro (UFRJ) in 2018 📘. I also had the chance to spend an exciting year as a visiting PhD student at Université Paris Sud (2015–2016) — oui, baguettes and bacteria 🥖🇫🇷!
 
-I am currently a Practice Director for Biomedical AI/ML for [HCLTech](https://www.hcltech.com/), where I advise the world's leading life sciences, medical devices and pharma companies on how to leverage AI/ML to improve their products and serve their customers better. I am also a visiting thesis supervisor for students on the data science track of the mathematics programme at the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en).
+After that, I did a postdoc in Clinical Research on Infectious Diseases at the Evandro Chagas National Institute of Infectious Diseases, part of the Oswaldo Cruz Foundation (INI/Fiocruz), from 2020 to 2021 🧪. Since 2021, I’ve been based in South Africa 🇿🇦, working as a postdoctoral fellow in the Division of Molecular Biology and Human Genetics at Stellenbosch University.
 
-As part of my service to the profession, I've been a reviewer for [JOSS](https://joss.theoj.org/papers/reviewed_by/@chrisvoncsefalvay), [Frontiers in Immunology](https://loop.frontiersin.org/people/1398311/editorial) and [Frontiers in Medicine](https://loop.frontiersin.org/people/1398311/editorial). Between 2022 and 2023, I served Virginia as a member of the Medical Reserve Corps, and currently serve in both the Rocky Mountain MRC of Denver and Colorado's radiation response MRC. I was also part of the [COVID-19 Healthcare Coalition](https://c19hcc.org/) and the [Covid Tracking Project](https://covidtracking.com/thank-you#chris-von-csefalvay). 
+My research is rooted in both basic and applied sciences 🔍, with a special focus on medical and environmental microbiology. I have a particular fascination for the Mycobacteria world — which includes Mycobacterium tuberculosis (a-ha! The TB villain 😷), Non-Tuberculous Mycobacteria (NTM), and Mycobacterium leprae (yes, the one behind Hansen Disease).
 
-You can find a [list of my publications here](papers). My work on COVID-19 has been [featured in the media](media). I also write on various topics as the fancy strikes -- you can peruse my [notebook](blog) here.
 
 ## Key research interests
 
-* **Computational epidemiology**: agent-based modelling, disease-avoidant behaviours, epidemics over dynamic networks, geospatial computational epidemiology -- all primarily in the context of infectious diseases
-* **Pharmacovigilance**: VAERS, passive reporting, text mining of large complex report sets using LLMs
-* **Computational dynamics**: computational dynamics of complex systems, computational dynamics of infectious diseases, computational dynamics of social systems
-* **Public health**: evidence-based public health policy, public health ethics, public health law, quality and systems improvement in public health
+Here’s what I’m most into:
+
+* **🧫 Exploring the diversity of Mycobacterium species** through a One Health lens, identifying them in animals, the environment, and clinical samples — part detective work, part microbial safari 🐾🌱.
+
+* **🧬 Using molecular epidemiology tools** like spoligotyping and MIRU-VNTR to understand how TB and leprosy spread.
+
+* **📊 Studying TB transmission** with a precision health twist, powered by whole genome sequencing (WGS) — it’s like giving TB a DNA test and tracking its every move.
+
+* **💊 Investigating how mycobacteria develop resistance to antibiotics**, and comparing what we see in the lab (phenotype) with what’s in their DNA (genotype).
+
+* **⚡ Evaluating high-performance, rapid diagnostic tests for TB** including some that work directly from patient samples and are compatible with next-gen sequencing (NGS).
+
+* **💻 Developing GEMIBRA**:, the Brazilian Mycobacterial Genome Platform, to support national disease surveillance.
+
+* **🧠 Promoting science and health education** by creating educational tools and community engagement strategies — because science should never stay locked in the lab.
+
 
 ## Teaching
 
-I am a visiting thesis supervisor for students on the data science track of the mathematics programme at the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en) - you can read more about this [here](teaching).
+Teaching-wise, I also gained experience in higher education between 2012 and 2014 as a lecturer at UFPA and UEPA 🏫, including through Brazil’s national teacher training program (PARFOR/CAPES) 📚.
 
-From time to time, I get invited to give talks and lectures. My capacity for this is somewhat limited due to other commitments, but if you are interested in having me speak at your event, please [get in touch](mailto:chris+website@chrisvoncsefalvay.com).
+## Clinical trials
 
-## Selected papers
+On the clinical side, from 2019 to 2021 I worked in the Bacteriology and Bioassay Lab at INI/Fiocruz 🧫, part of the city’s TB reference lab, contributing to research for the AIDS Clinical Trials Group (ACTG) and TB-Alliance as a scientist in diagnostics and clinical research 🧍‍🔬.
 
-**Tocilizumab in addition to standard of care in the management of COVID-19: A meta-analysis of RCTs.** Mutua V, Henry BM, **von Csefalvay, C**, Cheruiyot I, Vikse J, Lippi G, Bundi B, Mong'are N. _Acta Biomed._ 2022, 93(1):e2022014. [doi: 10.23750/abm.v93i1.12208](https://doi.org/10.23750/abm.v93i1.12208).
+In 2021, I took the lead on the SMARTT study (Sequencing Mycobacteria and Algorithm-Determined Resistant Tuberculosis Treatment) 🧪, and now I coordinate a sub-study in South Africa focused on applying WGS for managing drug-resistant TB — it’s called PARR-TB, part of the broader GenPath Africa project 🌍 on pathogen genomics for public health.
 
-**JAMPI: Efficient matrix multiplication in Spark using barrier execution mode.** Foldi T, **von Csefalvay C**, Perez NA. _BDCC_ 2020, 4(4):32. [doi: 10.3390/bdcc4040032](https://doi.org/10.3390/bdcc4040032).
+## Research in Brazil
 
-**VAERS data reveals no increased risk of neuroautoimmune adverse events from COVID- vaccines.** **von Csefalvay, C.** _medRxiv_ 2021. [doi: 10.1101/2021.06.13.21258851](https://doi.org/10.1101/2021.06.13.21258851).
+Back in Brazil 🇧🇷, I co-coordinate the TB Surveillance Network for Northern and Northeastern Brazil (REVIGET N/NE), in collaboration with the Evandro Chagas Institute (IEC), where I’m mainly involved in lab training for WGS workflows, data analysis, and making sure no mycobacterial genome goes unexamined 🔍🧬.
 
-**Tuberculous polyserositis in endemic areas with an emphasis on empiric therapy: A case report.** Munguti J, Mutua V, Cheruiyot I, **von Csefalvay C**, Opare-Addo P, Kiko N, Wanjiru R. _Medicine: Case Reports_. 2022, 3(4):e0221. [doi: 10.1097/MD9.0000000000000221](https://doi.org/10.1097/MD9.0000000000000221).
+I’m also a proud member of the "Geoprocessing, Health and Environment" research group at IEC 🛰️ — because understanding where diseases happen is just as important as knowing why.
 
-See more [here](papers).
 
 ## Professional affiliations
 
-**[The OR Society](https://www.theorsociety.com/)** | Member since 2020
+**[European Society of Mycobacteriology ](https://www.esmycobacteriology.eu/)** | Registered Member since 2024
 
-**[Royal Society for Public Health](https://www.rsph.org.uk/)** | Fellow since 2021
+**[Brazilian Society of Tropical Medicine (SBMT)](http://sbmt.org.br/)** | Registered Member 2024
 
-**[TOPRA](https://www.topra.org/)** | Registered Member since 2021
+**[RedeTB](https://redetb.org.br/)** | Registered Member since 2024
 
-**[American Public Health Association](https://www.apha.org/)** | Member since 2021
+**[TB Genomics research group](https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/members.aspx)** | Member since 2021
 
-**[IEEE](https://ieee.org)** | Senior Member since 2024
+**[TORCH consortium](https://torch-consortium.com/)** | Member since 2021
+
+**[REVIGET consortium](https://reviget.org/)** | Member since 2024
+
+**[GenPath Africa](https://www.genpath-africa.org/)** | Member since 2024
+
 
 
 ## Personal life
 
-I live in Denver, CO, with my Golden Retriever, Oliver. Born in Budapest, Hungary, I've spent my formative years in England, but have called the Netherlands, Germany, Belgium, Austria and the United States home at various points in my life. Since 2020, I've been living in the United States, where I am a permanent resident.
+I live in Cape Town, South Africa, but I am from Amazonian region of Brazil, especifically from state of Pará. 
 
-In my free time, I enjoy reading (mostly Cold War history and classical Greek drama), cooking (with not a lot of success) and Renaissance polyphony (esp. Thomas Tallis and Orlando di Lasso). I'm credited for a somewhat pretty sequence of integers called Jellyfish Heart numbers ([OEIS A344856](https://oeis.org/A344856)), which I discovered in 2020 while doing something that has nothing at all to do with my day job.
-
-I live with [neuromyelitis optica](https://en.wikipedia.org/wiki/Neuromyelitis_optica) since 2015, which has left me with a lifelong desire to understand complex, multicausal health conditions like NMOSD better.
-
-In what little is left of my free time, I'm an adaptive multisport athlete, competing in wheelchair rugby, adaptive rowing (category PR1) and the SkiErg
-(category SIT2). <!-- skierg_results -->In the latter, I [currently hold the world records for 100m, 500m, 1,000m, 2,000m, 6,000m, 10,000m, 21,097m and 42,195m distances and the 60 minutes time](https://www.concept2.com/skierg/motivation/records/adaptive-world?event=&gender=M&age_category=30&adaptive=31&op=Search&form_id=concept2_record_search_form#results).<!-- /skierg_results --> I [occasionally rant and whine](https://chrisvoncsefalvay.com/posts/index.html#category=fitness) about my forays in the world of adaptive exercise and my attempts at doing so in a mostly science-based manner.
-
-## Pronunciation guide
-
-My last name rhymes with Chick-Fil-A.
+In my free time, I enjoy sleeping, watching recommended movies, cooking (baking breads and trying recipes from Instagram), reading and learning a music instrument.
