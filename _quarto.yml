@@ -10,23 +10,24 @@ resources:
 
 website:
   title: "Emilyn Costa"
-  description: "Chris von Csefalvay is a computational epidemiologist/data scientist working at the intersection of AI, epidemiology and public health."
+  description: "Emilyn Costa is a biologist/microbiologist working at the intersection of genomics, epidemiology and public health."
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: papers
-        text: Papers
-      - href: teaching
-        text: Teaching
-      - href: media
-        text: Media
+#      - href: papers
+#        text: Papers
+#      - href: teaching
+#        text: Teaching
+#      - href: media
+#        text: Media
       - href: posts
         text: Blog
-      - href: talks
-        text: Talks
-      - href: https://computationalinfectiousdisease.com
+#      - href: talks
+#        text: Talks
+      - href: https://www.amazon.com.br/Revis%C3%A3o-Sobre-Tuberculose-Emilyn-Concei%C3%A7%C3%A3o-ebook/dp/B07DVP9JNL/ref=sr_1_21?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=U31S1O2KCKCK&dib=eyJ2IjoiMSJ9.MxDECZeff-uDDxX_6AypQWYXp1A_ufJx627I6gJqWbO9ThB4d3Fi_j92s6H7LHtloBoAnKyltswW-2CgJT4hjvq6bmluOWILR7Y0Jyy3TaIVDQYha1ZXE01tz0CqEHpNqoAVTwqL3dqqWBK3d0hO9dW_-YI7XCGiZX5tBQtIPpKKIn9ATzp7kWoeuZYp9_dTjnY_WQhg0n1eWI5-A7Kx84WGg3HQYzrIcsvLJBikSa2LiRqZNeu3WTAOiHUg12Lg--bl1S1lq-TbzLdYfdsp9nZBVQlCONmFhTeJmCRKGRQ.j-DVS2kLrIKVaP0omIf-OlWOQvVcRazLYa5xaev5bgM&dib_tag=se&keywords=tuberculose&qid=1745342291&sprefix=tuberculose%2Caps%2C487&sr=8-21
         text: My book
+  
   page-footer:
     left: "(c) Chris von Csefalvay, 2011–. [Disclaimer](disclaimer)"
   twitter-card: true
