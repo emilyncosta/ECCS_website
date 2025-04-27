@@ -8,6 +8,7 @@ categories: [Reflexões, Ciência, Carreira]
 tags: [Português, trajetória, ciência, accountability]
 image: account.png
 ---
+<div style="text-align: justify">
 
 > "'Accountability' gera capacidade de resposta."
 > — Stephen R. Covey

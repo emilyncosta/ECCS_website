@@ -1,6 +1,6 @@
 ---
 title: "[004] Introduzindo o Projeto IGNITE"
-slug: colaboracoes-produtivas
+slug: ignite
 date: 2025-04-05
 draft: false
 author: Emilyn Costa
@@ -8,9 +8,10 @@ categories: [Colaboração, Ciência, Carreira]
 tags: [Português, mulher, ciência, ignite]
 image: ignite.jpg
 ---
+<div style="text-align: justify">
 
-"Uma mulher é como um saquinho de chá: você não consegue dizer o quão forte ela é até colocá-la em água quente."
-- Eleanor Roosevelt
+> "Uma mulher é como um saquinho de chá: você não consegue dizer o quão forte ela é até colocá-la em água quente."
+> - Eleanor Roosevelt
 
 <div style="text-align: justify">
 

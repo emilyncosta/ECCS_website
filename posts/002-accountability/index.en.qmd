@@ -8,6 +8,7 @@ categories: [Reflections, Science, Career]
 tags: [English, journey, science, accountability]
 image: account.png
 ---
+<div style="text-align: justify">
 
 > "Accountability breeds response-ability."
 > — Stephen R. Covey

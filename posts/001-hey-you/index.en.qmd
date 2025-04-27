@@ -8,6 +8,7 @@ categories: [Reflections, Science, Career]
 tags: [English, journey, science, microbiology]
 image: oi-vc.png
 ---
+<div style="text-align: justify">
 
 > "I don't like words worn out by information. I have more respect for those that live belly-down on the ground."  
 > — Manoel de Barros

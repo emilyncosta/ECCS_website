@@ -8,6 +8,7 @@ categories: [Colaboração, Ciência, Carreira]
 tags: [Português, colaboração, ciência, gerenciamento de projetos]
 image: collab.png
 ---
+<div style="text-align: justify">
 
 > "Nós não somos uma equipe porque trabalhamos juntos. Nós somos uma equipe porque confiamos, respeitamos e nos importamos uns com os outros."
 > — Vala Afshar

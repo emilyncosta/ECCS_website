@@ -1,16 +1,17 @@
 ---
 title: "[004] Introducing Project IGNITE"
-slug: colaboracoes-produtivas
+slug: ignite
 date: 2025-04-05
 draft: false
 author: Emilyn Costa
-categories: [Colaboração, Ciência, Carreira]
-tags: [Português, mulher, ciência, ignite]
+categories: [English, woman, science]
+tags: [English, woman, science]
 image: ignite.jpg
 ---
+<div style="text-align: justify">
 
-"A woman is like a tea bag - you can't tell how strong she is until you put her in hot water."
-- Eleanor Roosevelt
+> "A woman is like a tea bag - you can't tell how strong she is until you put her in hot water."
+> - Eleanor Roosevelt
 
 <div style="text-align: justify">
 

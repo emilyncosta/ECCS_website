@@ -8,6 +8,7 @@ categories: [Reflections, Science, Career]
 tags: [English, journey, science, accountability]
 image: collab.png
 ---
+<div style="text-align: justify">
 
 > "We are not a team because we work together. We are a team because we trust, respect, and care for each other."
 > — Vala Afshar

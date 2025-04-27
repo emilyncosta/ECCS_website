@@ -9,6 +9,7 @@ categories: [Reflexões, Ciência, Carreira]
 tags: [Português, trajetória, ciência, microbiologia]
 image: oi-vc.png
 ---
+<div style="text-align: justify">
 
 > "Não gosto das palavras fatigadas de informar. Dou mais respeito às que vivem de barriga no chão."  
 > — Manoel de Barros
