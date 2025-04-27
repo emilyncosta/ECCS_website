@@ -1,5 +1,5 @@
 ---
-title: "[001] Hey You, Reader!"
+title: "🇬🇧Hey You, Reader!"
 slug: hey-you
 date: 2024-01-07
 draft: false

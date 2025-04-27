@@ -1,17 +1,12 @@
 ---
-title: "[English] IGNITE Mentorship Program"
+title: "IGNITE Mentorship Program [ENG]"
 date: 2024-04-05
 author: Emilyn Costa
 image: ignite.jpg
 ---
-<div style="text-align: justify">
+> Welcome! 
 
-> "A woman is like a tea bag - you can't tell how strong she is until you put her in hot water."
-> - Eleanor Roosevelt
-
-<div style="text-align: center; margin: 20px 0;">
-  <img src="/ignite/ignite.jpg" alt="Illustration by Emilyn Costa via ChatGPT" style="max-width: 50%; height: auto; border-radius: 8px;">
-</div>
+<div style="text-align: center; margin: 20px 0;"> <img src="/ignite/ignite.jpg" alt="Ilustração por Emilyn Costa via ChatGPT" style="max-width: 50%; height: auto; border-radius: 8px;"> </div>
 
 <div style="text-align: justify">
 

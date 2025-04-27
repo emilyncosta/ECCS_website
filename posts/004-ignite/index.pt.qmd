@@ -1,6 +1,6 @@
 ---
-title: "[004] Introduzindo o Projeto IGNITE"
-slug: ignite
+title: "🇧🇷Introduzindo o Projeto IGNITE"
+slug: IGNITE
 date: 2025-04-05
 draft: false
 author: Emilyn Costa

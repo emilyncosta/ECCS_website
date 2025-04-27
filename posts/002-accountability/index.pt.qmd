@@ -1,5 +1,5 @@
 ---
-title: "[002] Dois anos, um “logo” e a importância da “accountability”!"
+title: "🇧🇷Dois anos, um “logo” e a importância da “accountability”!"
 slug: dois-anos-accountability
 date: 2025-01-07
 draft: false

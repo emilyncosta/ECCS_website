@@ -1,5 +1,5 @@
 ---
-title: "[002] Two Years, a 'Sooner,' and the Importance of 'Accountability'!"
+title: "🇬🇧Two Years, a 'Sooner,' and the Importance of 'Accountability'!"
 slug: two-years-accountability
 date: 2025-01-07
 draft: false

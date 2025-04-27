@@ -1,5 +1,5 @@
 ---
-title: "[004] Introducing Project IGNITE"
+title: "🇬🇧Introducing Project IGNITE"
 slug: ignite
 date: 2025-04-05
 draft: false

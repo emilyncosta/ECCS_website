@@ -1,0 +1,186 @@
+---
+title: "🇧🇷Programa de Mentoria IGNITE"
+date: 2024-04-05
+author: Emilyn Costa
+image: ignite.jpg
+---
+> Bem-vinda(o)!
+
+<div style="text-align: center; margin: 20px 0;"> <img src="/ignite/ignite.jpg" alt="Ilustração por Emilyn Costa via ChatGPT" style="max-width: 50%; height: auto; border-radius: 8px;"> </div> <div style="text-align: justify">
+
+## <span style="color: #856A00;">O que é o IGNITE?</span>
+
+A palavra "ignite", segundo o dicionário, significa "pegar fogo ou causar combustão" ou "despertar ou inflamar uma emoção ou situação". Metaforicamente, ignite representa acender a paixão, a inspiração ou provocar uma onda intensa de atividade ou emoção. Pode descrever o despertar do entusiasmo, o acender de uma chama interior ou o desencadeamento de uma mudança poderosa ou transformadora.
+
+Foi assim que nasceu a ideia do <span style="color: #856A00;">IGNITE</span>, que aqui significa <span style="color: #ec3a8b;">Inspirando Garotas através de Networking, Inovação e Excelência Técnica</span>.
+
+IGNITE é um programa de mentoria de médio prazo, pensado para apoiar e fortalecer a próxima geração de mulheres na ciência.
+
+## <span style="color: #856A00;">Quem está envolvido?</span>
+O coração do IGNITE é a fundadora e mentora principal, Dra. Emilyn Costa. Ela convidou cuidadosamente mulheres incríveis de sua rede profissional – especialistas em diversas áreas científicas – para compartilharem, de forma generosa, seus conhecimentos valiosos e experiências práticas.
+
+A Dra. Emilyn Costa conta também com a colaboração de Layana Rufino, uma talentosa mestranda e sua orientanda. Layana contribui com sua excelência em comunicação científica e divulgação.
+
+Somos profundamente gratas a todas as mulheres inspiradoras que participam do IGNITE como voluntárias, dedicando seu tempo e expertise para fortalecer esta iniciativa tão importante.
+
+## <span style="color: #856A00;">Quem apoiamos?</span>
+
+O IGNITE foi criado especialmente para meninas e mulheres em formação nas carreiras científicas, abrangendo desde a graduação, passando pela pós-graduação (mestrado, doutorado) até o estágio de pós-doutorado.
+
+## <span style="color: #856A00;">Por que o IGNITE é importante?</span>
+
+<span style="color: #ec3a8b;">Acendendo a Inspiração através do Desejo de Mudança</span> 🌟
+
+A Dra. Emilyn Costa Conceição Sharma 👩‍🔬 🇧🇷 obteve seu doutorado no Brasil durante um período de instabilidade política e desinvestimento em ciência. Apesar do suporte do governo brasileiro para sua formação, a mudança no partido político no poder - clique aqui para saber mais - levou à instabilidade e à diáspora de profissionais altamente qualificados.
+
+Sem oportunidades de pós-doutorado e sem experiência anterior na indústria, Emilyn precisou retirar os títulos "Dra." e "MSc" de seu currículo para tentar vagas no setor privado. Uma dessas oportunidades foi na administração de uma unidade de saúde 🏥, com salário equivalente ao mínimo nacional – possível de ser alcançado apenas com o ensino médio.
+
+Em uma reviravolta inesperada, ao ajudar um colega de doutorado em situação similar, foi convidada a integrar o laboratório de bacteriologia diagnóstica (Labbact) no INI/FIOCRUZ como tecnóloga de laboratório (função equivalente a assistente de pesquisa). Essa oportunidade marcou seu retorno à ciência e o início de seu primeiro estágio pós-doutoral. 🔬
+
+Sua experiência prática em pesquisa clínica e diagnóstico da tuberculose resultou em um convite para desenvolver um projeto de pós-doutorado na Bélgica 🇧🇪. Na época, ela teve que escolher entre seguir na Europa 🌍 ou coordenar as atividades laboratoriais de um ensaio clínico de genômica da TB na África do Sul 🇿🇦 – tema que sempre a fascinou. Escolheu a África do Sul, movida pelo compromisso com doenças que impactam países do Sul Global, como o Brasil e a África do Sul. A posição prometia não apenas crescimento científico 🌱, mas também a troca significativa de conhecimentos.
+
+Na África do Sul, foi incentivada a buscar financiamento independente, mas enfrentou grandes dificuldades. A curta duração dos contratos de pós-doc, a falta de tempo dedicado à escrita de projetos ✍️ e a inelegibilidade devido à nacionalidade ou residência comprometeram suas chances. 😔
+
+Com o tempo, descobriu-se em um "vácuo profissional": não mais considerada pesquisadora em início de carreira (por ter ultrapassado três anos pós-PhD), mas também sem ter sido PI (pesquisadora principal) de projetos independentes. Isso a colocou em um espaço sem gravidade profissional, sem base sólida para crescer. 🚀
+
+Apesar dos desafios, a Dra. Costa Conceição adquiriu habilidades valiosas: gestão de projetos, comunicação científica, controle de qualidade, pensamento estratégico, liderança e autogestão. Sobretudo, aprendeu sobre o poder transformador das comunidades científicas. 🤝
+
+Acreditando no poder coletivo do compartilhamento de conhecimento, Emilyn estruturou suas experiências em um currículo para apoiar meninas e mulheres, expandindo horizontes para além dos sistemas tradicionais de educação e promovendo a escolha consciente de seus caminhos profissionais. 👩‍🏫
+
+## <span style="color: #ec3a8b;">O papel crucial da Mentoria e da Comunidade para Mulheres em STEM</span> 🌟
+O compromisso de Emilyn com a mentoria é fortalecido também por pesquisas fora de sua área de formação. Um artigo recente que a inspirou foi "Women in STEM: The Importance of Mentorship and Community", da professora Michaela Gazdik Stofer, publicado pela American Society for Microbiology. O texto completo está disponível clicando aqui. 😉
+
+A Professora Stofer aponta vários desafios estruturais enfrentados por mulheres em STEM:
+
+✔️ Preconceito de gênero: Bias consciente e inconsciente no recrutamento, promoção e reconhecimento.
+
+✔️ Síndrome da impostora: Sensação persistente de não pertencimento, mesmo sendo altamente qualificadas.
+
+✔️ Falta de representatividade: Poucas mulheres em cargos de liderança resultam em escassez de mentoras e modelos.
+
+✔️ Pressões de conciliação vida pessoal/profissional: Responsabilidades desproporcionais fora do trabalho impactam o progresso na carreira.
+
+Como resposta, a professora destaca a mentoria e a construção de comunidades de apoio como elementos cruciais para o avanço. A trajetória de Emilyn reflete essa visão – ela trabalha continuamente para criar espaços inclusivos e colaborativos para mulheres em STEM.
+
+IGNITE surge como resposta direta a esses desafios, oferecendo mentoria e construindo uma comunidade de apoio.
+
+### <span style="color: #ec3a8b;">Quando acontece o IGNITE?</span>
+
+O programa tem duração de 12 meses, de agosto a agosto.
+
+### <span style="color: #ec3a8b;">Onde o IGNITE opera?</span>
+
+Nossa base está no Brasil e na África do Sul, mas o programa é conduzido majoritariamente online, com atividades presenciais locais sempre que possível.
+
+### <span style="color: #ec3a8b;">Como funciona o IGNITE?</span>
+
+O programa de mentoria é conduzido em inglês (português é bem-vindo nas reuniões exclusivas para brasileiras).
+O currículo aborda desenvolvimento pessoal e profissional, incluindo:
+
+### <span style="color: #ec3a8b;"> 01 Habilidades Pessoais para a Vida</span>
+
+✔️ Pensamento crítico e criativo
+
+✔️ Comunicação eficaz: A arte de falar
+
+✔️ Apresentação pessoal: Estratégias para diferentes contextos
+
+✔️ Gestão de orçamento pessoal e investimentos
+
+✔️ Aperfeiçoamento da interpretação de textos
+
+✔️ Saúde mental e física da mulher
+
+### <span style="color: #ec3a8b;"> 02 Habilidades Profissionais em Ciência</span>
+
+✔️ Exploração de carreira: Definindo objetivos e caminhos
+
+✔️ Como conduzir revisões de literatura e estudos
+
+✔️ Escrita de projetos de pesquisa, resumos, artigos e capítulos de livros
+
+✔️ Criação de pôsteres e apresentações científicas
+
+✔️ Processo de submissão de projetos para financiamento
+
+✔️ Organização e gerenciamento de dados de pesquisa
+
+✔️ Análise de dados
+
+✔️ Gestão eficaz do tempo e tarefas
+
+✔️ Criação de currículos estratégicos para diferentes setores
+
+✔️ Exploração de oportunidades na indústria e na academia
+
+✔️ Fundamentos de empreendedorismo científico
+
+### <span style="color: #ec3a8b;"> O programa se baseia em três pilares</span>
+
+✔️ Reuniões online: Quinzenais, com foco em habilidades pessoais (5 encontros) e desenvolvimento profissional (15 encontros), com participações de profissionais da indústria e da academia.
+
+✔️ Reuniões presenciais locais: Duas por ano (uma por semestre) para discussões e brainstorms.
+
+✔️ Participação em Eventos Científicos e de Desenvolvimento Profissional
+
+✔️ **Participação em Eventos de Desenvolvimento Científico e Profissional**
+    ✅ Simpósio anual: Apresentação de trabalhos de revisão de literatura, estudos qualitativos ou protocolos/resultados de pesquisa.
+
+    ✅ Workshop/Webinar: Dois dias de palestras sobre oportunidades de emprego e estágios.
+
+    ✅ Atividades de Divulgação Científica: Participação em eventos escolares, aeroportos, hospitais, clínicas e universidades.
+
+### <span style="color: #ec3a8b;"> Avaliação - Atividades para cada mentorada</span>
+
+✔️ Pesquisas estruturadas de pré e pós-programa
+
+✔️ Avaliações semi-estruturadas
+
+✔️ Publicação de artigos científicos
+
+✔️ Apresentações gravadas de projetos de pesquisa
+
+✔️ Desenvolvimento de currículos acadêmicos e gerais
+
+✔️ Criação de presença profissional online
+
+✔️ Produção de material de divulgação científica
+
+✔️ Resumos de livros na plataforma "Good Reads"
+
+✔️ Relatórios e autoavaliações em grupo
+
+✔️ Avaliação de participação e engajamento
+
+### <span style="color: #ec3a8b;"> Referências para o Clube do Livro</span>
+
+✔️ Lean In
+✔️ Start With Why
+✔️ The Bullet Journal
+✔️ The 80/20 Principle
+✔️ Thinking, Fast and Slow
+✔️ The Confidence Code
+✔️ Leaders Eat Last
+
+### <span style="color: #ec3a8b;"> Canais de Comunicação</span>
+
+✔️ Comunidade no WhatsApp (desculpa, mais um grupo!😁)
+
+✔️ Google Scholar
+
+✔️ E-mails
+
+✔️ Slack
+
+<span style="color: #ec3a8b;"> Plataformas Utilizadas</span>
+✔️ Reuniões e eventos online: Microsoft Teams
+
+✔️ Gestão de atividades: Notion
+
+✔️ Troca de materiais: Google Scholar
+
+## <span style="color: #856A00;">COMO PARTICIPAR COMO MENTORADA?</span>
+As inscrições e seleção ocorrerão (possivelmente) de 15 a 31 de julho. Mais informações serão divulgadas em breve. Serão 10 vagas para o Brasil e 10 para a África do Sul.
+
+## <span style="color: #856A00;">CONTATO</span>
+Se você tem ideias, dúvidas ou deseja se envolver no IGNITE como patrocinadora, mentora ou mentorada, envie um e-mail para emilyncosta@gmail.com.

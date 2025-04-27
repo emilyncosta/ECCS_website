@@ -1,5 +1,5 @@
 ---
-title: "[003] Productive and pleasant collaborations: How many do I have? In how many of them am I [pleasant]?"
+title: "🇬🇧Productive and pleasant collaborations: How many do I have? In how many of them am I [pleasant]?"
 slug: good-collaboration 
 date: 2025-02-01
 draft: false

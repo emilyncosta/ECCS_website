@@ -1,5 +1,5 @@
 ---
-title: "[003] Colaborações produtivas e legais: Quantas eu tenho? Em quantas delas eu sou [legal]?"
+title: "🇧🇷Colaborações produtivas e legais: Quantas eu tenho? Em quantas delas eu sou [legal]?"
 slug: colaboracoes-produtivas
 date: 2025-02-01
 draft: false
