@@ -6,7 +6,7 @@ draft: false
 author: Emilyn Costa
 categories: [Colaboração, Ciência, Carreira]
 tags: [Português, colaboração, ciência, gerenciamento de projetos]
-image: colaboracao.png
+image: collab.png
 ---
 
 > "Nós não somos uma equipe porque trabalhamos juntos. Nós somos uma equipe porque confiamos, respeitamos e nos importamos uns com os outros."
