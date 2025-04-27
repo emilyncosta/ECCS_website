@@ -5,7 +5,7 @@ date: 2025-04-05
 draft: false
 author: Emilyn Costa
 categories: [Colaboração, Ciência, Carreira]
-tags: [Português, mulher, ciência, ignite]
+tags: [Português, mulher, ciência]
 image: ignite.jpg
 ---
 <div style="text-align: justify">
@@ -33,4 +33,6 @@ Me escreve no e-mail emilyncosta@gmail.com ou me manda uma mensagem direta nas r
 
 Vai ser um prazer “ler” os seus pensamentos. 💬💛
 
-</div>'
+Emilyn Costa.
+
+</div>

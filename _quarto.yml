@@ -17,8 +17,8 @@ website:
         text: Home
 #      - href: papers
 #        text: Papers
-#      - href: teaching
-#        text: Teaching
+      - href: ignite
+        text: Ignite
 #      - href: media
 #        text: Media
       - href: posts

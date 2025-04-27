@@ -1,0 +1,206 @@
+---
+title: "IGNITE Mentorship Program"
+slug: ignite-programe
+date: 2024-04-05
+draft: false
+author: Emilyn Costa
+categories: [English, woman, science]
+tags: [English, woman, science]
+image: ignite.jpg
+---
+<div style="text-align: justify">
+
+> "A woman is like a tea bag - you can't tell how strong she is until you put her in hot water."
+> - Eleanor Roosevelt
+
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/ignite/ignite.jpg" alt="Illustration by Emilyn Costa via ChatGPT" style="max-width: 50%; height: auto; border-radius: 8px;">
+</div>
+
+<div style="text-align: justify">
+
+## <span style="color: #856A00;">What is IGNITE?</span>
+
+The word "ignite", according to the dictionary, means "to catch fire or cause to catch fire," or "to arouse or inflame an emotion or situation." Metaphorically, ignite signifies sparking passion, inspiration, or a surge of intense activity or emotion. It can describe awakening enthusiasm, lighting a fire within oneself, or triggering a powerful or transformative change.
+
+That's how the idea for **<span style="color: #856A00;">IGNITE?**</span> was conceived, and here it stands for **<span style="color: #ec3a8b;"> Inspiring Girls through Networking, Innovation, and Technical Excellence**</span>.
+
+**IGNITE** It's a supportive, mid-term mentorship program designed to empower the next generation of women in science.
+
+## <span style="color: #856A00;">Who is Involved?</span>
+The heart of IGNITE is the founder and primary mentor, Dr. Emilyn Costa. She has thoughtfully invited accomplished women from her professional network – experts in their respective scientific fields – to generously share their valuable knowledge and real-world experiences.
+
+Dr. Emilyn Costa is delighted to collaborate on the organizational aspects of the program with Miss Layana Rufino, a bright Master's candidate and her mentee. Layana brings her excellent skills in scientific communication and outreach to the team.
+
+We are incredibly grateful to all the inspiring women who contribute to IGNITE as volunteers, dedicating their precious time and expertise to this important initiative.
+
+## <span style="color: #856A00;">Who do We Support?</span>
+IGNITE is specifically created for girls and women pursuing careers in science, particularly those in their early stages of academic journeys, including Bachelor's, Honours, Master's, Doctoral, and Post-doctoral levels.
+
+## <span style="color: #856A00;">Why Does IGNITE Matters?</span>
+
+### <span style="color: #ec3a8b;">Sparking Inspiration from a Drive for Change</span> 🌟
+
+Dr. Emilyn Costa Conceição Sharma 👩‍🔬 🇧🇷 earned her doctorate in Brazil during a period of significant political instability and underinvestment in science, immediately following the completion of her degree. Despite Brazil's full support for her education, a shift in government political party - [*click here to know more*](https://www.brasildefato.com.br/2021/04/16/five-years-after-the-coup-against-dilma-in-brazil-historians-take-stock/) - led to instability and contributed to the subsequent diaspora of highly qualified individuals from the country.
+
+Facing a lack of postdoctoral opportunities and no previous experience in industry, she found herself compelled to remove her academic titles—“Dr.” and “MSc” (masters)—from her CV in order to apply for positions in the private sector. One such opportunity was a role in the administration of a health facility 🏥, where the offered salary matched Brazil’s minimum wage—an amount attainable with only the high school certificate.
+
+In an unexpected turn, while supporting a fellow PhD colleague in a similar situation, Dr. Emilyn Costa was invited to join a diagnostic bacteriology laboratory (Labbact) at INI/FIOCRUZ as a laboratory technologist (a role equivalent to that of a research assistant). This opportunity marked not only her return to scientific work but also the beginning of her first postdoctoral research internship. 🔬
+
+Her hands-on experience in clinical research and TB diagnostics led to an offer to undertake a postdoctoral research project in Belgium 🇧🇪. At that time, she had to choose between continuing research in Europe 🌍 or coordinating laboratory activities for a clinical trial on TB genomics in South Africa 🇿🇦—a topic that deeply aligned with her research interests. She chose South Africa, motivated by a commitment to addressing a disease that disproportionately affects countries of the Global South, such as Brazil and South Africa. The position promised not only scientific growth 🌱 but also the chance to engage in meaningful knowledge exchange.
+
+While in South Africa, she was encouraged to apply for independent research funding. However, this proved particularly difficult. The short-term nature of postdoctoral contracts, the lack of dedicated time for grant writing ✍️, and her ineligibility due to nationality or residency criteria severely limited her access to funding opportunities. Officially a resident of Brazil and living temporarily in South Africa, she did not meet the criteria required by either country’s funding bodies. 😔
+
+Over time, she discovered that she fell into a professional gap. No longer considered an early-career researcher (due to exceeding the typical three-year post-PhD window), and without having led her own independent research as principal investigator (PI), she was also not recognized as mid-career. This left her in a “gravity-free” professional space—without firm ground to establish herself and grow in the way she aspired. 🚀
+
+Despite these obstacles, Dr. Costa Conceição gained valuable skills throughout her international journey. From her doctoral studies in Europe, her diagnostic and clinical research work in Brazil, to her postdoctoral research in South Africa, she developed strong capabilities in self-management, scientific communication, quality control, strategic and critical thinking, mentorship, leadership, and time management. Most importantly, she came to understand the transformative power of scientific communities. 🤝
+
+A firm believer in the collective power of shared knowledge, Emilyn has turned her own experiences into a structured curriculum aimed at empowering girls and women. Her goal is to expand opportunities beyond those defined by formal education systems, enabling women to choose their professional paths rather than being passively chosen—or excluded—by systemic failures. Through mentorship, she hopes to reduce the number of women who abandon careers in STEM fields due to a lack of decent work opportunities. 👩‍🏫
+
+### <span style="color: #ec3a8b;">The Crucial Role of Mentoring and Community for Women in STEM field</span> 🌟
+
+Emilyn's commitment to mentorship is also fueled by literature and research beyond her primary area of expertise. One article that recently inspired her is "Women in STEM: The Importance of Mentorship and Community" by Prof. Michaela Gazdik Stofer, published by the American Society for Microbiology. The full text can be accessed [*clicking here*](https://asm.org/articles/2024/october/women-stem-importance-mentorship-community). 😉
+
+Prof. Stofer identifies several structural challenges commonly faced by women in STEM:
+
+✔️ **Gender bias:** Both conscious and unconscious biases that influence hiring, promotion, and recognition.
+
+✔️ **Imposter syndrome:** A persistent feeling among many women that they do not belong, despite their qualifications.
+
+✔️ **Lack of representation:** Fewer women in senior roles result in a scarcity of mentors and role models for early-career professionals.
+
+✔️ **Work-life balance pressures:** Disproportionate responsibilities outside of work often hinder women’s advancement in the field.
+
+In response to these challenges, Prof. Michaela Stofer highlights mentorship and the formation of supportive communities as crucial mechanisms for progress. Emilyn’s own journey echoes this sentiment—she continues to work toward building inclusive spaces where knowledge is shared, mentorship is prioritized, and the next generation of women in STEM can thrive.
+
+IGNITE directly addresses these challenges by providing mentorship and fostering a supportive community.
+
+## <span style="color: #ec3a8b;">When Does IGNITE Take Place?</span>
+
+The mentorship program runs for 12 months, from August to August.
+
+## <span style="color: #ec3a8b;">Where Does IGNITE Operate?</span>
+
+While our organizational base is in South Africa and Brazil, the core of the program is delivered online, complemented by local in-person activities where possible.
+
+## <span style="color: #ec3a8b;">How Does IGNITE Work?</span>
+
+The mentorship program is primarily conducted in English (Portuguese is welcome during meetings exclusively for Brazilian participants).
+Our curriculum focuses on developing both personal and professional skills, covering topics such as (but not limited to):
+
+### <span style="color: #ec3a8b;"> 01 Personal Skills for Life</span>
+
+✔️ Critical and creative thinking
+
+✔️ Effective communication: The art of speaking
+
+✔️ Self-presentation: Strategies for different contexts
+
+✔️ Personal budget and investment management
+
+✔️ Enhancing general reading comprehension
+
+✔️ Mental and physical woman Health
+
+### <span style="color: #ec3a8b;"> 02 Professional Skills in Science</span>
+
+✔️ Career exploration: Defining aspirations and pathways
+
+✔️ Conducting various types of literature reviews and studies
+
+✔️ Writing research proposals, abstracts, manuscripts, and potentially book chapters
+
+✔️ Designing impactful scientific posters and presentations
+
+✔️ Navigating the grant application process
+
+✔️ Organizing and managing research data
+
+✔️ Performing data analysis
+
+✔️ Effective time and task management
+
+✔️ Crafting strategic Curriculum Vitae (CVs) for different sectors
+
+✔️ Exploring opportunities in industry and academia
+
+✔️ Fundamentals of starting your own company
+
+### <span style="color: #ec3a8b;"> The program utilizes a three-pronged approach</span>
+
+✔️ **Online Meetings:** Bi-weekly sessions focusing on personal skills (5 sessions) and professional development skills (15 sessions) with insights from both industry and academic professionals.
+
+✔️ **Local Meetings:** Planned twice a year (once per semester) for in-person brainstorming and discussions on challenges and opportunities within the scientific field, related to the online session topics.
+
+✔️ **Participation in Scientific and Professional Development Events**
+
+    ✅ Annual Symposium: Opportunities to present work such as literature reviews, qualitative studies, research protocols/results, and outreach activity outcomes as oral or posters presentations.
+
+    ✅ Workshop/Webinar: A two-day workshop and webinar featuring industry professionals discussing job opportunities and internship possibilities, including position overviews, desirable profiles, application processes, and interview tips.
+
+    ✅ Outreach Activities: Engaging with the community in schools, airports, hospitals, clinics, universities, and local scientific events through stands and group discussions to promote science and opportunities for girls across all scientific disciplines. These 8-hour events will be aligned with institutions and will involve the distribution of informational booklets.
+
+### <span style="color: #ec3a8b;"> Evaluation - Activities Designed for Each Mentee</span>
+
+✔️ Structured pre- and post-program surveys.
+
+✔️ Semi-structured pre- and post-program self-evaluations.
+
+✔️ Publication of scientific papers (literature reviews or qualitative studies) as a leading researcher.
+
+✔️ Recorded 10-minute research project presentations before and after receiving feedback.
+
+✔️ Development of both academic and general CVs.
+
+✔️ Initiating an online professional presence.
+
+✔️ Technical production of a scientific dissemination booklet on a chosen topic.
+
+✔️ Book summaries on a personal "Good Reads" platform.
+
+✔️ Self-evaluation group discussions and reports on outreach activities.
+
+✔️ Assessment of attendance and engagement throughout the program.
+
+### <span style="color: #ec3a8b;"> References for the Book Club</span>
+
+✔️ Lean In
+
+✔️ Start With Why
+
+✔️ The Bullet Journal
+
+✔️ The 80/20 Principle
+
+✔️ Thinking, Fast and Slow
+
+✔️ The Confidence Code
+
+✔️ Leaders Eat Last
+
+### <span style="color: #ec3a8b;"> Communication Channels</span>
+
+✔️ WhatsApp community (sorry for more one WhatsApp group!😁)
+
+✔️ Google Scholar
+
+✔️ Emails
+
+✔️ Slack
+
+### <span style="color: #ec3a8b;"> Platforms Used</span>
+
+✔️ Meetings and online events: Microsoft Teams
+
+✔️ Activity management: Notion
+
+✔️ Material exchange: Google Scholar
+
+## <span style="color: #856A00;">HOW CAN I BECOME A MENTEE?</span>
+
+Registration and selection will (possibly) take place from July 15th to 31st, and further information will be released at a later date. There will be 10 vacancies for Brazil and 10 vacancies for South Africa.
+
+## <span style="color: #856A00;">CONTACT</span>
+
+If you have any ideas, questions or are interested in joining IGNITE as a sponsor, mentor or mentee, please email emilyncosta@gmail.com.
