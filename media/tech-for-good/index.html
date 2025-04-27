@@ -84,11 +84,11 @@ gtag('config', '395640625', { 'anonymize_ip': true});
 
 <meta property="og:title" content="Tech for Good podcast – Emilyn Costa">
 <meta property="og:description" content="A fascinating interview with Ben Mouncer on the Tech for Good podcast.">
-<meta property="og:image" content="header.jpeg">
+<meta property="og:image" content="https://emilyncosta.com/media/tech-for-good/header.jpeg">
 <meta property="og:site_name" content="Emilyn Costa">
 <meta name="twitter:title" content="Tech for Good podcast – Emilyn Costa">
 <meta name="twitter:description" content="A fascinating interview with Ben Mouncer on the Tech for Good podcast.">
-<meta name="twitter:image" content="header.jpeg">
+<meta name="twitter:image" content="https://emilyncosta.com/media/tech-for-good/header.jpeg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -270,7 +270,7 @@ Csefalvay, Chris von. 2023. <span>“Tech for Good Podcast.”</span> March
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/emilyncosta\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
