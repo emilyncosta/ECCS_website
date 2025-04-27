@@ -1,8 +1,7 @@
 ---
 title: "IGNITE Mentorship Program"
-slug: ignite-programe
+slug: ignite-program
 date: 2024-04-05
-draft: false
 author: Emilyn Costa
 categories: [English, woman, science]
 tags: [English, woman, science]
