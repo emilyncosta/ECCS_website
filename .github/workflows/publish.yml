@@ -34,8 +34,8 @@ jobs:
     
       - name: Commit changes to reflect source file changes
         run: |
-          git config --global user.name 'Chris von Csefalvay'
-          git config --global user.email 'chrisvoncsefalvay@users.noreply.github.com'
+          git config --global user.name 'Emilyn Costa'
+          git config --global user.email 'emilyncosta@users.noreply.github.com'
           
           # Capture output of git status
           CHANGED=$(git status --porcelain)
