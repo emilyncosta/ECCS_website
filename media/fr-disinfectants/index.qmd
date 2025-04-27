@@ -4,7 +4,7 @@ description: |
     Injecting disinfectants continues to be a bad idea.
 author:
   - name: Chris von Csefalvay
-    orcid: 0000-0003-3131-0864
+    orcid: 0000-0002-7445-6620
     email: chris@chrisvoncsefalvay.com
 date: 2020-05-11
 categories: ["Frankfurter Rundschau"]
