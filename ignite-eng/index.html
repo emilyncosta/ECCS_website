@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.22">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Emilyn Costa">
+<meta name="dcterms.date" content="2024-04-05">
+
+<title>IGNITE Mentorship Program – Emilyn Costa</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-2d3a5f678c659c6d9658e8627949fb9f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=395640625"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '395640625', { 'anonymize_ip': true});
+</script>
+<script type="application/ld+json">{"@context":"http://www.schema.org","@type":"person","name":"Chris von Csefalvay","jobTitle":"Director of Biomedical AI/ML","height":"74 inches","gender":"male","description":"Chris von Csefalvay is a computational epidemiologist and data scientist working at the intersection of AI/ML, computational dynamics and public health. He is the author of Computational Modeling of Infectious Disease and a number of research papers.","url":"https://chrisvoncsefalvay.com","image":"https://chrisvoncsefalvay.com/img/IMG_5986.jpeg","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","postalCode":"80204","addressCountry":"United States"},"alumniOf":[{"@type":"CollegeOrUniversity","name":"University of Oxford","sameAs":"https://en.wikipedia.org/wiki/University_of_Oxford"},{"@type":"CollegeOrUniversity","name":"Cardiff University","sameAs":"https://en.wikipedia.org/wiki/Cardiff_University"}],"worksFor":[{"@type":"Organization","name":"HCLTech"}],"birthDate":"1986-07-15","birthPlace":"Budapest, Hungary","memberOf":[{"@type":"Organization","name":"Royal Society for Public Health"},{"@type":"Organization","name":"TOPRA"},{"@type":"Organization","name":"IEEE"}],"nationality":[{"@type":"Country","name":"United Kingdom"},{"@type":"Country","name":"Hungary"}]}</script>
+
+
+<meta property="og:title" content="IGNITE Mentorship Program – Emilyn Costa">
+<meta property="og:image" content="ignite.jpg">
+<meta property="og:site_name" content="Emilyn Costa">
+<meta name="twitter:title" content="IGNITE Mentorship Program – Emilyn Costa">
+<meta name="twitter:image" content="ignite.jpg">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Emilyn Costa</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../posts"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../ignite"> 
+<span class="menu-text">IGNITE</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.amazon.com.br/Revis%C3%A3o-Sobre-Tuberculose-Emilyn-Concei%C3%A7%C3%A3o-ebook/dp/B07DVP9JNL/ref=sr_1_21?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=U31S1O2KCKCK&amp;dib=eyJ2IjoiMSJ9.MxDECZeff-uDDxX_6AypQWYXp1A_ufJx627I6gJqWbO9ThB4d3Fi_j92s6H7LHtloBoAnKyltswW-2CgJT4hjvq6bmluOWILR7Y0Jyy3TaIVDQYha1ZXE01tz0CqEHpNqoAVTwqL3dqqWBK3d0hO9dW_-YI7XCGiZX5tBQtIPpKKIn9ATzp7kWoeuZYp9_dTjnY_WQhg0n1eWI5-A7Kx84WGg3HQYzrIcsvLJBikSa2LiRqZNeu3WTAOiHUg12Lg--bl1S1lq-TbzLdYfdsp9nZBVQlCONmFhTeJmCRKGRQ.j-DVS2kLrIKVaP0omIf-OlWOQvVcRazLYa5xaev5bgM&amp;dib_tag=se&amp;keywords=tuberculose&amp;qid=1745342291&amp;sprefix=tuberculose%2Caps%2C487&amp;sr=8-21"> 
+<span class="menu-text">My book</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">IGNITE Mentorship Program</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Emilyn Costa </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 5, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div style="text-align: justify">
+<blockquote class="blockquote">
+<p>“A woman is like a tea bag - you can’t tell how strong she is until you put her in hot water.” - Eleanor Roosevelt</p>
+</blockquote>
+<div style="text-align: center; margin: 20px 0;">
+<p><img src="../ignite/ignite.jpg" alt="Illustration by Emilyn Costa via ChatGPT" style="max-width: 50%; height: auto; border-radius: 8px;"></p>
+</div>
+<div style="text-align: justify">
+<section id="what-is-ignite" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-ignite"><span style="color: #856A00;">What is IGNITE?</span></h2>
+<p>The word “ignite”, according to the dictionary, means “to catch fire or cause to catch fire,” or “to arouse or inflame an emotion or situation.” Metaphorically, ignite signifies sparking passion, inspiration, or a surge of intense activity or emotion. It can describe awakening enthusiasm, lighting a fire within oneself, or triggering a powerful or transformative change.</p>
+<p>That’s how the idea for <strong><span style="color: #856A00;">IGNITE?</span></strong> was conceived, and here it stands for <strong><span style="color: #ec3a8b;"> Inspiring Girls through Networking, Innovation, and Technical Excellence</span></strong>.</p>
+<p><strong>IGNITE</strong> It’s a supportive, mid-term mentorship program designed to empower the next generation of women in science.</p>
+</section>
+<section id="who-is-involved" class="level2">
+<h2 class="anchored" data-anchor-id="who-is-involved"><span style="color: #856A00;">Who is Involved?</span></h2>
+<p>The heart of IGNITE is the founder and primary mentor, Dr.&nbsp;Emilyn Costa. She has thoughtfully invited accomplished women from her professional network – experts in their respective scientific fields – to generously share their valuable knowledge and real-world experiences.</p>
+<p>Dr.&nbsp;Emilyn Costa is delighted to collaborate on the organizational aspects of the program with Miss Layana Rufino, a bright Master’s candidate and her mentee. Layana brings her excellent skills in scientific communication and outreach to the team.</p>
+<p>We are incredibly grateful to all the inspiring women who contribute to IGNITE as volunteers, dedicating their precious time and expertise to this important initiative.</p>
+</section>
+<section id="who-do-we-support" class="level2">
+<h2 class="anchored" data-anchor-id="who-do-we-support"><span style="color: #856A00;">Who do We Support?</span></h2>
+<p>IGNITE is specifically created for girls and women pursuing careers in science, particularly those in their early stages of academic journeys, including Bachelor’s, Honours, Master’s, Doctoral, and Post-doctoral levels.</p>
+</section>
+<section id="why-does-ignite-matters" class="level2">
+<h2 class="anchored" data-anchor-id="why-does-ignite-matters"><span style="color: #856A00;">Why Does IGNITE Matters?</span></h2>
+<section id="sparking-inspiration-from-a-drive-for-change" class="level3">
+<h3 class="anchored" data-anchor-id="sparking-inspiration-from-a-drive-for-change"><span style="color: #ec3a8b;">Sparking Inspiration from a Drive for Change</span> 🌟</h3>
+<p>Dr.&nbsp;Emilyn Costa Conceição Sharma 👩‍🔬 🇧🇷 earned her doctorate in Brazil during a period of significant political instability and underinvestment in science, immediately following the completion of her degree. Despite Brazil’s full support for her education, a shift in government political party - <a href="https://www.brasildefato.com.br/2021/04/16/five-years-after-the-coup-against-dilma-in-brazil-historians-take-stock/"><em>click here to know more</em></a> - led to instability and contributed to the subsequent diaspora of highly qualified individuals from the country.</p>
+<p>Facing a lack of postdoctoral opportunities and no previous experience in industry, she found herself compelled to remove her academic titles—“Dr.” and “MSc” (masters)—from her CV in order to apply for positions in the private sector. One such opportunity was a role in the administration of a health facility 🏥, where the offered salary matched Brazil’s minimum wage—an amount attainable with only the high school certificate.</p>
+<p>In an unexpected turn, while supporting a fellow PhD colleague in a similar situation, Dr.&nbsp;Emilyn Costa was invited to join a diagnostic bacteriology laboratory (Labbact) at INI/FIOCRUZ as a laboratory technologist (a role equivalent to that of a research assistant). This opportunity marked not only her return to scientific work but also the beginning of her first postdoctoral research internship. 🔬</p>
+<p>Her hands-on experience in clinical research and TB diagnostics led to an offer to undertake a postdoctoral research project in Belgium 🇧🇪. At that time, she had to choose between continuing research in Europe 🌍 or coordinating laboratory activities for a clinical trial on TB genomics in South Africa 🇿🇦—a topic that deeply aligned with her research interests. She chose South Africa, motivated by a commitment to addressing a disease that disproportionately affects countries of the Global South, such as Brazil and South Africa. The position promised not only scientific growth 🌱 but also the chance to engage in meaningful knowledge exchange.</p>
+<p>While in South Africa, she was encouraged to apply for independent research funding. However, this proved particularly difficult. The short-term nature of postdoctoral contracts, the lack of dedicated time for grant writing ✍️, and her ineligibility due to nationality or residency criteria severely limited her access to funding opportunities. Officially a resident of Brazil and living temporarily in South Africa, she did not meet the criteria required by either country’s funding bodies. 😔</p>
+<p>Over time, she discovered that she fell into a professional gap. No longer considered an early-career researcher (due to exceeding the typical three-year post-PhD window), and without having led her own independent research as principal investigator (PI), she was also not recognized as mid-career. This left her in a “gravity-free” professional space—without firm ground to establish herself and grow in the way she aspired. 🚀</p>
+<p>Despite these obstacles, Dr.&nbsp;Costa Conceição gained valuable skills throughout her international journey. From her doctoral studies in Europe, her diagnostic and clinical research work in Brazil, to her postdoctoral research in South Africa, she developed strong capabilities in self-management, scientific communication, quality control, strategic and critical thinking, mentorship, leadership, and time management. Most importantly, she came to understand the transformative power of scientific communities. 🤝</p>
+<p>A firm believer in the collective power of shared knowledge, Emilyn has turned her own experiences into a structured curriculum aimed at empowering girls and women. Her goal is to expand opportunities beyond those defined by formal education systems, enabling women to choose their professional paths rather than being passively chosen—or excluded—by systemic failures. Through mentorship, she hopes to reduce the number of women who abandon careers in STEM fields due to a lack of decent work opportunities. 👩‍🏫</p>
+</section>
+<section id="the-crucial-role-of-mentoring-and-community-for-women-in-stem-field" class="level3">
+<h3 class="anchored" data-anchor-id="the-crucial-role-of-mentoring-and-community-for-women-in-stem-field"><span style="color: #ec3a8b;">The Crucial Role of Mentoring and Community for Women in STEM field</span> 🌟</h3>
+<p>Emilyn’s commitment to mentorship is also fueled by literature and research beyond her primary area of expertise. One article that recently inspired her is “Women in STEM: The Importance of Mentorship and Community” by Prof.&nbsp;Michaela Gazdik Stofer, published by the American Society for Microbiology. The full text can be accessed <a href="https://asm.org/articles/2024/october/women-stem-importance-mentorship-community"><em>clicking here</em></a>. 😉</p>
+<p>Prof.&nbsp;Stofer identifies several structural challenges commonly faced by women in STEM:</p>
+<p>✔️ <strong>Gender bias:</strong> Both conscious and unconscious biases that influence hiring, promotion, and recognition.</p>
+<p>✔️ <strong>Imposter syndrome:</strong> A persistent feeling among many women that they do not belong, despite their qualifications.</p>
+<p>✔️ <strong>Lack of representation:</strong> Fewer women in senior roles result in a scarcity of mentors and role models for early-career professionals.</p>
+<p>✔️ <strong>Work-life balance pressures:</strong> Disproportionate responsibilities outside of work often hinder women’s advancement in the field.</p>
+<p>In response to these challenges, Prof.&nbsp;Michaela Stofer highlights mentorship and the formation of supportive communities as crucial mechanisms for progress. Emilyn’s own journey echoes this sentiment—she continues to work toward building inclusive spaces where knowledge is shared, mentorship is prioritized, and the next generation of women in STEM can thrive.</p>
+<p>IGNITE directly addresses these challenges by providing mentorship and fostering a supportive community.</p>
+</section>
+</section>
+<section id="when-does-ignite-take-place" class="level2">
+<h2 class="anchored" data-anchor-id="when-does-ignite-take-place"><span style="color: #ec3a8b;">When Does IGNITE Take Place?</span></h2>
+<p>The mentorship program runs for 12 months, from August to August.</p>
+</section>
+<section id="where-does-ignite-operate" class="level2">
+<h2 class="anchored" data-anchor-id="where-does-ignite-operate"><span style="color: #ec3a8b;">Where Does IGNITE Operate?</span></h2>
+<p>While our organizational base is in South Africa and Brazil, the core of the program is delivered online, complemented by local in-person activities where possible.</p>
+</section>
+<section id="how-does-ignite-work" class="level2">
+<h2 class="anchored" data-anchor-id="how-does-ignite-work"><span style="color: #ec3a8b;">How Does IGNITE Work?</span></h2>
+<p>The mentorship program is primarily conducted in English (Portuguese is welcome during meetings exclusively for Brazilian participants). Our curriculum focuses on developing both personal and professional skills, covering topics such as (but not limited to):</p>
+<section id="personal-skills-for-life" class="level3">
+<h3 class="anchored" data-anchor-id="personal-skills-for-life"><span style="color: #ec3a8b;"> 01 Personal Skills for Life</span></h3>
+<p>✔️ Critical and creative thinking</p>
+<p>✔️ Effective communication: The art of speaking</p>
+<p>✔️ Self-presentation: Strategies for different contexts</p>
+<p>✔️ Personal budget and investment management</p>
+<p>✔️ Enhancing general reading comprehension</p>
+<p>✔️ Mental and physical woman Health</p>
+</section>
+<section id="professional-skills-in-science" class="level3">
+<h3 class="anchored" data-anchor-id="professional-skills-in-science"><span style="color: #ec3a8b;"> 02 Professional Skills in Science</span></h3>
+<p>✔️ Career exploration: Defining aspirations and pathways</p>
+<p>✔️ Conducting various types of literature reviews and studies</p>
+<p>✔️ Writing research proposals, abstracts, manuscripts, and potentially book chapters</p>
+<p>✔️ Designing impactful scientific posters and presentations</p>
+<p>✔️ Navigating the grant application process</p>
+<p>✔️ Organizing and managing research data</p>
+<p>✔️ Performing data analysis</p>
+<p>✔️ Effective time and task management</p>
+<p>✔️ Crafting strategic Curriculum Vitae (CVs) for different sectors</p>
+<p>✔️ Exploring opportunities in industry and academia</p>
+<p>✔️ Fundamentals of starting your own company</p>
+</section>
+<section id="the-program-utilizes-a-three-pronged-approach" class="level3">
+<h3 class="anchored" data-anchor-id="the-program-utilizes-a-three-pronged-approach"><span style="color: #ec3a8b;"> The program utilizes a three-pronged approach</span></h3>
+<p>✔️ <strong>Online Meetings:</strong> Bi-weekly sessions focusing on personal skills (5 sessions) and professional development skills (15 sessions) with insights from both industry and academic professionals.</p>
+<p>✔️ <strong>Local Meetings:</strong> Planned twice a year (once per semester) for in-person brainstorming and discussions on challenges and opportunities within the scientific field, related to the online session topics.</p>
+<p>✔️ <strong>Participation in Scientific and Professional Development Events</strong></p>
+<pre><code>✅ Annual Symposium: Opportunities to present work such as literature reviews, qualitative studies, research protocols/results, and outreach activity outcomes as oral or posters presentations.
+
+✅ Workshop/Webinar: A two-day workshop and webinar featuring industry professionals discussing job opportunities and internship possibilities, including position overviews, desirable profiles, application processes, and interview tips.
+
+✅ Outreach Activities: Engaging with the community in schools, airports, hospitals, clinics, universities, and local scientific events through stands and group discussions to promote science and opportunities for girls across all scientific disciplines. These 8-hour events will be aligned with institutions and will involve the distribution of informational booklets.</code></pre>
+</section>
+<section id="evaluation---activities-designed-for-each-mentee" class="level3">
+<h3 class="anchored" data-anchor-id="evaluation---activities-designed-for-each-mentee"><span style="color: #ec3a8b;"> Evaluation - Activities Designed for Each Mentee</span></h3>
+<p>✔️ Structured pre- and post-program surveys.</p>
+<p>✔️ Semi-structured pre- and post-program self-evaluations.</p>
+<p>✔️ Publication of scientific papers (literature reviews or qualitative studies) as a leading researcher.</p>
+<p>✔️ Recorded 10-minute research project presentations before and after receiving feedback.</p>
+<p>✔️ Development of both academic and general CVs.</p>
+<p>✔️ Initiating an online professional presence.</p>
+<p>✔️ Technical production of a scientific dissemination booklet on a chosen topic.</p>
+<p>✔️ Book summaries on a personal “Good Reads” platform.</p>
+<p>✔️ Self-evaluation group discussions and reports on outreach activities.</p>
+<p>✔️ Assessment of attendance and engagement throughout the program.</p>
+</section>
+<section id="references-for-the-book-club" class="level3">
+<h3 class="anchored" data-anchor-id="references-for-the-book-club"><span style="color: #ec3a8b;"> References for the Book Club</span></h3>
+<p>✔️ Lean In</p>
+<p>✔️ Start With Why</p>
+<p>✔️ The Bullet Journal</p>
+<p>✔️ The 80/20 Principle</p>
+<p>✔️ Thinking, Fast and Slow</p>
+<p>✔️ The Confidence Code</p>
+<p>✔️ Leaders Eat Last</p>
+</section>
+<section id="communication-channels" class="level3">
+<h3 class="anchored" data-anchor-id="communication-channels"><span style="color: #ec3a8b;"> Communication Channels</span></h3>
+<p>✔️ WhatsApp community (sorry for more one WhatsApp group!😁)</p>
+<p>✔️ Google Scholar</p>
+<p>✔️ Emails</p>
+<p>✔️ Slack</p>
+</section>
+<section id="platforms-used" class="level3">
+<h3 class="anchored" data-anchor-id="platforms-used"><span style="color: #ec3a8b;"> Platforms Used</span></h3>
+<p>✔️ Meetings and online events: Microsoft Teams</p>
+<p>✔️ Activity management: Notion</p>
+<p>✔️ Material exchange: Google Scholar</p>
+</section>
+</section>
+<section id="how-can-i-become-a-mentee" class="level2">
+<h2 class="anchored" data-anchor-id="how-can-i-become-a-mentee"><span style="color: #856A00;">HOW CAN I BECOME A MENTEE?</span></h2>
+<p>Registration and selection will (possibly) take place from July 15th to 31st, and further information will be released at a later date. There will be 10 vacancies for Brazil and 10 vacancies for South Africa.</p>
+</section>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact"><span style="color: #856A00;">CONTACT</span></h2>
+<p>If you have any ideas, questions or are interested in joining IGNITE as a sponsor, mentor or mentee, please email emilyncosta@gmail.com.</p>
+
+
+</section>
+</div>
+</div>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<ol start="3" type="a">
+<li>Emilyn Costa, 2025–. <a href="disclaimer">Disclaimer</a></li>
+</ol>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

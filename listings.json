@@ -1,0 +1,36 @@
+[
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/004-ignite/index.en.html",
+      "/posts/004-ignite/index.pt.html",
+      "/posts/003-collab/index.en.html",
+      "/posts/003-collab/index.pt.html",
+      "/posts/002-accountability/index.en.html",
+      "/posts/002-accountability/index.pt.html",
+      "/posts/001-hey-you/index.en.html",
+      "/posts/001-hey-you/index.pt.html"
+    ]
+  },
+  {
+    "listing": "/ignite/index.html",
+    "items": [
+      "/ignite/ignite/index.en.html",
+      "/ignite/ignite/index.pt.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/prometheus-unbound/index.html"
+    ]
+  },
+  {
+    "listing": "/media/index.html",
+    "items": [
+      "/media/tech-for-good/index.html",
+      "/media/fr-disinfectants/index.html",
+      "/media/euronews-covid/index.html"
+    ]
+  }
+]
