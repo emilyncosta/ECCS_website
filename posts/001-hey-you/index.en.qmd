@@ -1,0 +1,99 @@
+---
+title: Hey You, Reader!
+slug: hey-you
+date: 2024-01-07
+draft: false
+author: Emilyn Costa
+categories: [Reflections, Science, Career]
+tags: [English, journey, science, microbiology]
+image: oi-vc.png
+---
+
+> "I don't like words worn out by information. I have more respect for those that live belly-down on the ground."  
+> — Manoel de Barros
+
+<div style="text-align: justify">
+
+## Hey you, reader!
+
+Putting aside my reluctance to introduce myself publicly, I'm starting this journey for basically three reasons:
+
+**1. First**, because it might help you at some point in your professional journey, whether through my mistakes or my achievements;
+
+**2. Second**, because you might want to join one of the study groups I run on weekends, either in Portuguese or English (more details here);
+
+**3. Finally**, because we might create or join a new and exciting initiative for society. How great would that be?
+
+Well, let's move on to the proper introductions, professionally speaking. After all, we are not defined by our degrees — they are just an important part of life, but not *the* most important one...
+
+My name is Emilyn Costa Conceição Sharma, and I'm from Belém, Pará, Brazil. Despite the challenges my family and educators faced in getting me interested in studying during childhood, their persistence worked — and here I am.
+
+After a not-so-traditional journey, I fell in love with knowledge, and it became like magic chocolate: the more I consumed, the more there was to enjoy.  
+At that time, I had no internet, cellphone, or even TV access. My entire knowledge source came from formal education (school) and informal education (my grandmother’s library — she was a teacher). I went through many schools, experienced bullying, traumas, new beginnings, and later, found places that became emotional, intellectual, social, and protective oases.
+
+This background made me want to be everything at once.  
+Teenage years brought intense passions: for history, I wanted to be a historian; for music, a musician; for physics, I dreamed of NASA; for religion, I considered becoming a theologian or religious scholar; for sociology, geography, literature, and... biology. Eventually, I had to choose just two paths.
+
+My choices were led by the desire to serve God and His creation through what challenged and fascinated me.  
+First, I chose Medicine — because I love people and wanted to care for them.  
+Second, I chose Biology Education — a unique union between Science and Teaching.  
+I love life, the diversity of life, and the paradoxical harmony between its simplicity and complexity.
+
+And what came of these choices? Here’s a summary of my short professional biography, copied and pasted from a recent conference where I was a speaker:
+
+<div style="text-align: justify; font-style: italic;">
+> "Emilyn holds a Biology degree from the Federal University of Pará (UFPA), with internships through CIEE and later through a scientific research project (PIBIC/CNPq) at the Molecular Biology Laboratory of the Bacteriology and Mycology Section at the Evandro Chagas Institute (SABMI/IEC), with which she maintains collaboration to this day. She earned a Master’s degree in Infectious Diseases from the State University of Pará (UEPA) and a PhD in Microbiology from the Federal University of Rio de Janeiro (UFRJ), with a 'sandwich' research period at Paris-Sud University, France, in collaboration with the Laboratory of Molecular Biology Applied to Mycobacteria (LABMAM) at the Oswaldo Cruz Institute – Fiocruz (IOC/Fiocruz).  
+> She worked as a research technologist at Fiotec, in the Bacteriology and Bioassays Laboratory of the National Institute of Infectious Diseases (INI/Fiocruz), a regional reference in mycobacteria, where she gained experience in clinical research and molecular biology diagnostics for mycobacteria. She participated in the clinical projects Phoenix-NIH, TB-Alliance, and Report-Brazil.  
+> Since 2021, she has been a member of the TB Genomics and Tuberculosis Omics Research (TORCH) groups, mainly coordinating the SMARTT clinical research project as a postdoctoral fellow at Stellenbosch University, Cape Town, South Africa.  
+> Her current research focuses on personalized medicine through genomic sequencing of patients with drug-resistant tuberculosis.  
+> Her interests include public health, epidemiology, molecular biology, antimicrobial resistance, genomic surveillance, 'omics', bioinformatics, and science education."
+</div>
+
+---
+
+<div style="text-align: justify; font-style: normal;">
+
+To wrap up this introduction, a poetic reminder:  
+Research work demands an incredible sense of urgency.  
+Everything feels like it’s for "yesterday," and we live buried under deadlines.  
+Proactivity, creativity, and resilience are almost like components of our oxygen molecule.
+
+Maybe that's why I want to share my favorite poem here — as a reminder that, even in the rush of life, we shouldn't forget to appreciate its tiny little wonders.
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/img/oi-vc.png" alt="Illustration by Emilyn Costa via ChatGPT" style="max-width: 75%; height: auto; border-radius: 8px;">
+</div>
+
+<div style="text-align: center; font-style: italic;">
+
+### **The Catcher of Waste**  
+*(Manoel de Barros)*
+
+> I use words to compose my silences.  
+> I don’t like words worn out by information.  
+> I have more respect for those that live belly-down on the ground — like water, stones, frogs.  
+> I understand the accent of the waters.  
+> I respect unimportant things and unimportant beings.  
+> I value insects more than airplanes.  
+> I value the speed of turtles more than missiles.  
+> I carry a natural slowness in me.  
+> I was made to love little birds.  
+> And I’m abundantly happy because of that.  
+> My backyard is bigger than the world.  
+> I am a catcher of waste:  
+> I love leftovers like good flies do.  
+> I wish my voice had the shape of a song.  
+> Because I’m not from informatics — I’m from inventiveness.  
+> I only use words to compose my silences.
+
+</div>
+
+---
+
+<div style="text-align: justify; font-style: normal;">
+
+With all that said — welcome to my professional-personal blog.
+
+See you soon — and I hope it really is *soon*! 😅
+
+Emilyn Costa.
