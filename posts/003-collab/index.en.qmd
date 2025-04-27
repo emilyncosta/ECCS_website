@@ -1,0 +1,86 @@
+---
+title: "[003] Productive and pleasant collaborations: How many do I have? In how many of them am I [pleasant]?"
+slug: good-collaboration 
+date: 2025-02-01
+draft: false
+author: Emilyn Costa
+categories: [Reflections, Science, Career]
+tags: [English, journey, science, accountability]
+image: collab.png
+---
+
+> "We are not a team because we work together. We are a team because we trust, respect, and care for each other."
+> — Vala Afshar
+
+<div style="text-align: justify">
+
+
+Look at this consistency, folks!
+
+Two posts on this blog in two months! 🤭 I'm impressed with myself! January has barely started, but it already feels like an entire year has passed! Between professional decisions and the eternal geopolitical chaos, I decided to talk about a topic that's been part of our lives forever: collaborations 🤝!
+
+We're constantly connecting with other people, either because we choose to or because "we were chosen." But since reality isn't always rosy, I'll set aside the negative part and focus on what really matters: how to recognize the different types of collaboration we have and, more importantly, how to make them more productive and pleasant.
+
+So, let's reflect: how many of these collaborations do we actually have? And, most importantly, in how many of them are we "the pleasant ones"? Just one detail: I'm not an academic specialist on this subject, but as a scientist, I have plenty of experience to share. And that's what this post is all about!
+
+## Project management: essential for life
+
+It might not seem related, but this topic is totally connected to our theme. I've always thought Project Management should be a mandatory course in all degrees because, in practice, our life is full of projects – even if we don't call them that.
+
+And I'm not just talking about that basic scientific methodology course on how to create and develop projects, but mainly about how to manage them. In this regard, I notice that industry is far ahead of academia. Those who don't learn this in practice often need to pursue a specialization or MBA after graduation, which is expensive, and by then, we've already wasted a lot of time managing our undergraduate research projects and thesis in an amateur way.
+
+The fact is that knowing how to manage projects makes collaborations more enjoyable, productive, and lighter. Here, I'll focus on some aspects that I consider fundamental:
+
+## Communication and responsiveness
+Task division, deadlines, and follow-up
+Working with visibility and consistency
+Patience
+Meetings (if necessary!)
+Authorship planning
+A coffee (or "e-coffee")
+
+## Communication and responsiveness
+In science, we communicate all the time: presentations, meetings, requests for help, courses, events, emails... In the midst of all this, our social battery sometimes crashes (here in South Africa they call it load-shedding, the scheduled power outages that we even track with an app! 😂).
+
+If observation/experimentation and reproducibility are the brain of science, communication is its soul.
+
+If multiple people are copied on an email, we need to respond to everyone when the update is relevant to the group. Otherwise, we can respond privately. Seems basic, but we don't always follow this logic.
+Now, about using WhatsApp for everything: I'm naturally against it! Family, friends, and work on the same app? Exhausting! I think email should remain the main tool for professional communication, while WhatsApp should be used for quick, urgent messages or to alert someone about an email sent.
+The problem is that, besides emails and WhatsApp, we still have Teams, Slack, GitHub, platforms from A to Z, and social networks like LinkedIn, Instagram, Facebook, Twitter... Oh my! 🙃 All these apps have been removed from my phone (except WhatsApp) because it's impossible to be accessible on all platforms, at any time and anywhere.
+About seven years ago, I started using project management tools, but the problem is that there are many and none connect them all. In the end, we always go back to emails... Today, I use a platform for personal planning, which helps me organize other aspects.
+
+But regardless of the tool, some good practices are essential:
+✅ Be polite and kind in communication
+✅ Be clear and objective
+✅ Include the right people in the conversation
+✅ Be responsive – you don't need to reply instantly, but have a fixed time to check emails.
+
+By the way, one day I want to invite a professional to give a talk about how to improve our relationship with emails and written communication. In Brazil, we don't have this strong culture, but we should.
+Task division, deadlines, and follow-up
+The success of a collaboration depends on a balance in the division of tasks. Often, the most efficient people end up overloaded, and this blocks the process. Tasks without a defined deadline tend to drag on forever. And when someone sits on a task for months, holding up the progress of the rest of the project? Frustrating! Therefore, besides distributing responsibilities well and setting realistic deadlines, regular follow-up is fundamental. Weekly, biweekly, or monthly meetings can prevent this type of problem.
+Working with visibility and consistency
+Keeping the group updated is essential:
+✔️ Sending meeting minutes
+✔️ Informing about delays or unforeseen events (lost sample, delayed reagent, failed experiment, vacation...)
+✔️ Reporting results – including negative ones!
+What matters isn't perfection, but consistency.
+Patience
+No scientist works on a single project with a single group. We're multi-everything! This means that, by default, we're always busy, but we can organize ourselves to meet deadlines. If we can't finish something within the expected time, pressure like "I need it yesterday" doesn't help. Who hasn't already been swamped and received an urgent task out of nowhere? That's our routine.
+The best approach is:
+🔹 Ask for more time, if necessary
+🔹 Delegate to someone else, if possible
+🔹 Don't let it affect your mental health! Work gets resolved, burnout doesn't.
+Meetings (if necessary!)
+There are meetings that could be resolved by email and emails that should be short meetings. The secret lies in balance.
+I like objective and short meetings: 40 minutes biweekly, for example, is usually enough to keep the team aligned without hindering productivity.
+Authorship planning
+This should be the first topic in any collaboration. Defining roles and positions right at the beginning avoids future conflicts. Whoever did more should get more credit. Here's an essential reference for this:
+🔗 CRediT – Author Statement
+A coffee (or "e-coffee") ☕
+In the end, we're not robots. If we're in the same environment, a coffee or a walk around campus can be great for maintaining the bond between collaborators.
+For those who are far away, why not a virtual coffee? The last time I did this with a friend in the Netherlands, she had porridge and I had coffee. It was a fun 45-minute catch-up that made all the difference in the week!
+I wrote all this also as a reminder to myself – because I'm still learning to be a good collaborator (not perfect!) 🤲. I've also been encouraging students to adopt these practices.
+If you have reading suggestions, comments, or criticisms, let me know 💡!
+Until next time and thank you for the "privilege of your attention" – a phrase I stole from a movie whose name I've already forgotten. 😆
+Emilyn C. C. Sharma.
+</div>
