@@ -10,7 +10,7 @@
 <atom:link href="https://emilyncosta.com/CV/index.xml" rel="self" type="application/rss+xml"/>
 <description>Emilyn Costa is a biologist/microbiologist working at the intersection of genomics, epidemiology and public health.</description>
 <generator>quarto-1.7.22</generator>
-<lastBuildDate>Mon, 28 Apr 2025 15:01:22 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Apr 2025 15:05:15 GMT</lastBuildDate>
 <item>
   <title>🇬🇧 Curriculum vitae (CV)</title>
   <link>https://emilyncosta.com/CV/cv-eng/</link>
@@ -81,7 +81,7 @@ Education and Career Experience
 
  ]]></description>
   <guid>https://emilyncosta.com/CV/cv-eng/</guid>
-  <pubDate>Mon, 28 Apr 2025 15:01:22 GMT</pubDate>
+  <pubDate>Mon, 28 Apr 2025 15:05:15 GMT</pubDate>
   <media:content url="https://emilyncosta.com/CV/cv-eng/emilyncv.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -154,7 +154,7 @@ Educação e Experiência Profissional
 
  ]]></description>
   <guid>https://emilyncosta.com/CV/cv-pt/</guid>
-  <pubDate>Mon, 28 Apr 2025 15:01:22 GMT</pubDate>
+  <pubDate>Mon, 28 Apr 2025 15:05:15 GMT</pubDate>
   <media:content url="https://emilyncosta.com/CV/cv-pt/emilyncv.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
