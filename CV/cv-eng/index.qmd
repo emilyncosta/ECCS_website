@@ -79,7 +79,7 @@ I’m also a proud member of the "Geoprocessing, Health and Environment" researc
 
 ## CV - Documment
 
-My updated CV (on 08-JAN-2025) can be obtained [here](Emilyn_CV_08JAN2025.pdf).
+My updated CV (on 08-JAN-2025) can be obtained [here](./Emilyn_CV_08JAN2025.pdf).
 
 </div> <!-- Close justify div -->
 </div> <!-- Close one column div -->

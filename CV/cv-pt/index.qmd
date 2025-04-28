@@ -79,7 +79,7 @@ Também sou um membro orgulhoso do grupo de pesquisa "Geoprocessamento, Saúde e
 
 ## Documento - CV
 
-O meu CV atualizado (no dia 08-JAN-2025) pode ser obtido [aqui](Emilyn_CV_08JAN2025PT.pdf).
+O meu CV atualizado (no dia 08-JAN-2025) pode ser obtido [aqui](./Emilyn_CV_08JAN2025PT.pdf).
 
 </div> <!-- Close justify div -->
 </div> <!-- Close one column div -->
