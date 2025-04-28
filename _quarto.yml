@@ -15,6 +15,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: cv
+        text: CV
       - href: posts
         text: Blog
       - href: ignite

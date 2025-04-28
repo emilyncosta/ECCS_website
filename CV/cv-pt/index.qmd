@@ -1,0 +1,85 @@
+---
+image: emilyncv.jpeg
+title: 🇧🇷 Curriculum vitae (CV)
+---
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+
+<h1 style="text-align: center;">Educação e Experiência Profissional</h1>
+
+<img src="emilyncv.jpeg" alt="Emilyn Costa" style="width: 200px; border-radius: 20%; margin-bottom: 10px;">
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="http://lattes.cnpq.br/4561326931035190">Lattes</a> |
+  <a href="https://www.linkedin.com/in/emilyncosta/">LinkedIn</a> |
+  <a href="https://x.com/emilyncosta">Twitter</a> |
+  <a href="https://github.com/emilyncosta">GitHub</a> |
+  <a href="https://orcid.org/0000-0002-7445-6620">ORCID</a> |
+  <a href="https://scholar.google.com.br/citations?user=QfjcZKoAAAAJ&hl=pt-BR">Google Scholar</a> |
+  <a href="https://www.webofscience.com/wos/author/record/K-1170-2015">ResearcherID</a> |
+  <a href="mailto:emilyncosta@gmail.com">Email</a> |
+</div>
+</div>
+<!-- Force one column -->
+<div style="max-width: 100%; column-count: 1;">
+
+<div style="text-align: justify">
+
+## Principais interesses de pesquisa
+
+Meus principais interesses profissionais incluem:
+
+* **🧫 Explorar a diversidade de espécies do gênero *Mycobacterium*** sob uma perspectiva de Saúde Única, identificando-as em animais, no ambiente e em amostras clínicas — parte trabalho de detetive, parte safári microbiano 🐾🌱.
+
+* **🧬 Utilizar ferramentas de epidemiologia molecular** como o spoligotyping e o MIRU-VNTR para entender como a TB e a hanseníase se espalham.
+
+* **📊 Estudar a transmissão da TB** com uma abordagem de saúde de precisão, impulsionada pelo sequenciamento de genoma completo (WGS) — é como fazer um teste de DNA na TB e rastrear cada movimento dela.
+
+* **💊 Investigar como as micobactérias desenvolvem resistência a antibióticos**, e comparar o que observamos no laboratório (fenótipo) com o que está em seu DNA (genótipo).
+
+* **⚡ Avaliar testes de diagnóstico rápido e de alto desempenho para TB**, incluindo alguns que funcionam diretamente de amostras de pacientes e são compatíveis com o sequenciamento de nova geração (NGS).
+
+* **💻 Desenvolver o GEMIBRA**: a Plataforma Genômica Brasileira de Micobactérias, para apoiar a vigilância nacional de doenças.
+
+* **🧠 Promover a educação científica e em saúde** através da criação de ferramentas educacionais e estratégias de engajamento comunitário — porque a ciência nunca deve ficar trancada no laboratório.
+
+## Ensino
+
+No âmbito do ensino, também adquiri experiência no ensino superior entre 2012 e 2014 como professora substituta na UFPA e na UEPA 🏫, inclusive através do programa nacional de formação de professores (PARFOR/CAPES) 📚.
+
+## Ensaios clínicos
+
+Na área clínica, de 2019 a 2021 trabalhei no Laboratório de Bacteriologia e Bioensaios do INI/Fiocruz 🧫, parte do laboratório de referência em TB da cidade, contribuindo para pesquisas do AIDS Clinical Trials Group (ACTG) e da TB-Alliance como cientista em diagnóstico e pesquisa clínica 🧍‍🔬.
+
+Em 2021, assumi a liderança do estudo SMARTT (Sequenciamento de Micobactérias e Tratamento da Tuberculose Resistente Determinado por Algoritmo) 🧪, e agora coordeno um subestudo na África do Sul focado na aplicação do WGS para o manejo da TB resistente a medicamentos — chamado PARR-TB, parte do projeto mais amplo GenPath Africa 🌍 sobre genômica de patógenos para saúde pública.
+
+## Pesquisa no Brasil
+
+De volta ao Brasil 🇧🇷, coordeno a Rede de Vigilância da TB do Norte e Nordeste do Brasil (REVIGET N/NE), em colaboração com o Instituto Evandro Chagas (IEC), onde estou principalmente envolvida no treinamento laboratorial para fluxos de trabalho de WGS, análise de dados e garantindo que nenhum genoma micobacteriano passe despercebido 🔍🧬.
+
+Também sou um membro orgulhoso do grupo de pesquisa "Geoprocessamento, Saúde e Meio Ambiente" do IEC 🛰️ — porque entender onde as doenças acontecem é tão importante quanto saber por quê.
+
+
+## Afiliações profissionais
+
+**[TBG](https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/members.aspx)** | Member since 2021
+
+**[TORCH](https://torch-consortium.com/)** | Membro desde 2021
+
+**[GenPath Africa](https://www.genpath-africa.org/)** | Membro desde 2023
+
+**[REVIGET](https://reviget.org/)** | Membro desde 2024
+
+**[ESM](https://www.esmycobacteriology.eu/)** | Membro registrado desde 2024
+
+**[SBMT](http://sbmt.org.br/)** | Membro registrado desde 2024
+
+**[RedeTB](https://redetb.org.br/)** | Membro registrado desde 2024
+
+
+## Documento - CV
+
+O meu CV atualizado (no dia 08-JAN-2025) pode ser obtido [aqui](Emilyn_CV_08JAN2025PT.pdf).
+
+</div> <!-- Close justify div -->
+</div> <!-- Close one column div -->

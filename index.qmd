@@ -39,7 +39,7 @@ comments: false
 
 <div style="text-align: justify">
 
-## Bio
+## 🇬🇧 Short Professional Bio
 
 Hi, I’m Emilyn Costa Conceição Sharma — a biologist by training 🧬, a microbiologist by passion 🔬, and someone who spends a suspicious amount of time thinking about bacteria most people can’t even pronounce 😄.
 
@@ -49,55 +49,12 @@ After that, I did a postdoc in Clinical Research on Infectious Diseases at the E
 
 My research is rooted in both basic and applied sciences 🔍, with a special focus on medical and environmental microbiology. I have a particular fascination for the Mycobacteria world — which includes Mycobacterium tuberculosis (a-ha! The TB villain 😷), Non-Tuberculous Mycobacteria (NTM), and Mycobacterium leprae (yes, the one behind Hansen Disease).
 
+## 🇧🇷 Mini Biografia Profissional
+Oi, eu sou a Emilyn Costa Conceição Sharma — bióloga por formação 🧬, microbiologista por paixão 🔬 e alguém que passa uma quantidade suspeita de tempo pensando sobre bactérias que a maioria das pessoas nem consegue pronunciar 😄.
 
-## Key research interests
+Me formei em Ciências Biológicas pela Universidade Federal do Pará (UFPA) em 2010 🎓, obtive o título de mestre em Biologia de Parasitas na Amazônia pela Universidade do Estado do Pará (UEPA) em 2012 🦠, e concluí o doutorado em Microbiologia pela Universidade Federal do Rio de Janeiro (UFRJ) em 2018 📘. Também tive a oportunidade de passar um ano incrível como doutoranda visitante na Université Paris Sud (2015–2016) — oui, baguetes e bactérias 🥖🇫🇷!
 
-Here’s what I’m most into:
+Depois disso, realizei um pós-doutorado em Pesquisa Clínica em Doenças Infecciosas no Instituto Nacional de Infectologia Evandro Chagas, da Fundação Oswaldo Cruz (INI/Fiocruz), entre 2020 e 2021 🧪. Desde 2021, estou baseada na África do Sul 🇿🇦, atuando como pesquisadora de pós-doutorado na Divisão de Biologia Molecular e Genética Humana da Stellenbosch University.
 
-* **🧫 Exploring the diversity of Mycobacterium species** through a One Health lens, identifying them in animals, the environment, and clinical samples — part detective work, part microbial safari 🐾🌱.
+Minha pesquisa é fundamentada tanto em ciências básicas quanto aplicadas 🔍, com foco especial em microbiologia médica e ambiental. Tenho uma fascinação particular pelo mundo das micobactérias — que inclui o Mycobacterium tuberculosis (aha! O vilão da tuberculose 😷), as Micobactérias Não Tuberculosas (NTM) e o Mycobacterium leprae (sim, o agente causador da hanseníase).
 
-* **🧬 Using molecular epidemiology tools** like spoligotyping and MIRU-VNTR to understand how TB and leprosy spread.
-
-* **📊 Studying TB transmission** with a precision health twist, powered by whole genome sequencing (WGS) — it’s like giving TB a DNA test and tracking its every move.
-
-* **💊 Investigating how mycobacteria develop resistance to antibiotics**, and comparing what we see in the lab (phenotype) with what’s in their DNA (genotype).
-
-* **⚡ Evaluating high-performance, rapid diagnostic tests for TB** including some that work directly from patient samples and are compatible with next-gen sequencing (NGS).
-
-* **💻 Developing GEMIBRA**:, the Brazilian Mycobacterial Genome Platform, to support national disease surveillance.
-
-* **🧠 Promoting science and health education** by creating educational tools and community engagement strategies — because science should never stay locked in the lab.
-
-
-## Teaching
-
-Teaching-wise, I also gained experience in higher education between 2012 and 2014 as a lecturer at UFPA and UEPA 🏫, including through Brazil’s national teacher training program (PARFOR/CAPES) 📚.
-
-## Clinical trials
-
-On the clinical side, from 2019 to 2021 I worked in the Bacteriology and Bioassay Lab at INI/Fiocruz 🧫, part of the city’s TB reference lab, contributing to research for the AIDS Clinical Trials Group (ACTG) and TB-Alliance as a scientist in diagnostics and clinical research 🧍‍🔬.
-
-In 2021, I took the lead on the SMARTT study (Sequencing Mycobacteria and Algorithm-Determined Resistant Tuberculosis Treatment) 🧪, and now I coordinate a sub-study in South Africa focused on applying WGS for managing drug-resistant TB — it’s called PARR-TB, part of the broader GenPath Africa project 🌍 on pathogen genomics for public health.
-
-## Research in Brazil
-
-Back in Brazil 🇧🇷, I co-coordinate the TB Surveillance Network for Northern and Northeastern Brazil (REVIGET N/NE), in collaboration with the Evandro Chagas Institute (IEC), where I’m mainly involved in lab training for WGS workflows, data analysis, and making sure no mycobacterial genome goes unexamined 🔍🧬.
-
-I’m also a proud member of the "Geoprocessing, Health and Environment" research group at IEC 🛰️ — because understanding where diseases happen is just as important as knowing why.
-
-
-## Professional affiliations
-
-**[TBG](https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/members.aspx)** | Member since 2021
-
-**[TORCH](https://torch-consortium.com/)** | Member since 2021
-
-**[GenPath Africa](https://www.genpath-africa.org/)** | Member since 2023
-
-**[REVIGET](https://reviget.org/)** | Member since 2024
-
-**[ESM](https://www.esmycobacteriology.eu/)** | Registered Member since 2024
-
-**[SBMT](http://sbmt.org.br/)** | Registered Member 2024
-
-**[RedeTB](https://redetb.org.br/)** | Registered Member since 2024

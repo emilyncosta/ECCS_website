@@ -1,0 +1,20 @@
+---
+listing:
+  categories: false
+  contents:
+  - '*.qmd'
+  feed: true
+  filter-ui: false
+  sort: date desc
+  sort-ui: false
+  type: default
+page-layout: article
+title-block-banner: false
+---
+
+
+<style>
+.quarto-listing img {
+  display: none;
+}
+</style>

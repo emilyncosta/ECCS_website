@@ -1,0 +1,85 @@
+---
+image: emilyncv.jpeg
+title: 🇬🇧 Curriculum vitae (CV)
+---
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+
+<h1 style="text-align: center;">Education and Career Experience</h1>
+
+<img src="emilyncv.jpeg" alt="Emilyn Costa" style="width: 200px; border-radius: 20%; margin-bottom: 10px;">
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <a href="http://lattes.cnpq.br/4561326931035190">Lattes</a> |
+  <a href="https://www.linkedin.com/in/emilyncosta/">LinkedIn</a> |
+  <a href="https://x.com/emilyncosta">Twitter</a> |
+  <a href="https://github.com/emilyncosta">GitHub</a> |
+  <a href="https://orcid.org/0000-0002-7445-6620">ORCID</a> |
+  <a href="https://scholar.google.com.br/citations?user=QfjcZKoAAAAJ&hl=pt-BR">Google Scholar</a> |
+  <a href="https://www.webofscience.com/wos/author/record/K-1170-2015">ResearcherID</a> |
+  <a href="mailto:emilyncosta@gmail.com">Email</a> |
+</div>
+</div>
+<!-- Force one column -->
+<div style="max-width: 100%; column-count: 1;">
+
+<div style="text-align: justify">
+
+## Key research interests
+
+My key professional interests include:
+
+* **🧫 Exploring the diversity of Mycobacterium species** through a One Health lens, identifying them in animals, the environment, and clinical samples — part detective work, part microbial safari 🐾🌱.
+
+* **🧬 Using molecular epidemiology tools** like spoligotyping and MIRU-VNTR to understand how TB and leprosy spread.
+
+* **📊 Studying TB transmission** with a precision health twist, powered by whole genome sequencing (WGS) — it’s like giving TB a DNA test and tracking its every move.
+
+* **💊 Investigating how mycobacteria develop resistance to antibiotics**, and comparing what we see in the lab (phenotype) with what’s in their DNA (genotype).
+
+* **⚡ Evaluating high-performance, rapid diagnostic tests for TB** including some that work directly from patient samples and are compatible with next-gen sequencing (NGS).
+
+* **💻 Developing GEMIBRA**:, the Brazilian Mycobacterial Genome Platform, to support national disease surveillance.
+
+* **🧠 Promoting science and health education** by creating educational tools and community engagement strategies — because science should never stay locked in the lab.
+
+## Teaching
+
+Teaching-wise, I also gained experience in higher education between 2012 and 2014 as a lecturer at UFPA and UEPA 🏫, including through Brazil’s national teacher training program (PARFOR/CAPES) 📚.
+
+## Clinical trials
+
+On the clinical side, from 2019 to 2021 I worked in the Bacteriology and Bioassay Lab at INI/Fiocruz 🧫, part of the city’s TB reference lab, contributing to research for the AIDS Clinical Trials Group (ACTG) and TB-Alliance as a scientist in diagnostics and clinical research 🧍‍🔬.
+
+In 2021, I took the lead on the SMARTT study (Sequencing Mycobacteria and Algorithm-Determined Resistant Tuberculosis Treatment) 🧪, and now I coordinate a sub-study in South Africa focused on applying WGS for managing drug-resistant TB — it’s called PARR-TB, part of the broader GenPath Africa project 🌍 on pathogen genomics for public health.
+
+## Research in Brazil
+
+Back in Brazil 🇧🇷, I co-coordinate the TB Surveillance Network for Northern and Northeastern Brazil (REVIGET N/NE), in collaboration with the Evandro Chagas Institute (IEC), where I’m mainly involved in lab training for WGS workflows, data analysis, and making sure no mycobacterial genome goes unexamined 🔍🧬.
+
+I’m also a proud member of the "Geoprocessing, Health and Environment" research group at IEC 🛰️ — because understanding where diseases happen is just as important as knowing why.
+
+
+## Professional affiliations
+
+**[TBG](https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/members.aspx)** | Member since 2021
+
+**[TORCH](https://torch-consortium.com/)** | Member since 2021
+
+**[GenPath Africa](https://www.genpath-africa.org/)** | Member since 2023
+
+**[REVIGET](https://reviget.org/)** | Member since 2024
+
+**[ESM](https://www.esmycobacteriology.eu/)** | Registered Member since 2024
+
+**[SBMT](http://sbmt.org.br/)** | Registered Member 2024
+
+**[RedeTB](https://redetb.org.br/)** | Registered Member since 2024
+
+
+## CV - Documment
+
+My updated CV (on 08-JAN-2025) can be obtained [here](Emilyn_CV_08JAN2025.pdf).
+
+</div> <!-- Close justify div -->
+</div> <!-- Close one column div -->
