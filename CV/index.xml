@@ -10,7 +10,7 @@
 <atom:link href="https://emilyncosta.com/CV/index.xml" rel="self" type="application/rss+xml"/>
 <description>Emilyn Costa is a biologist/microbiologist working at the intersection of genomics, epidemiology and public health.</description>
 <generator>quarto-1.7.22</generator>
-<lastBuildDate>Mon, 28 Apr 2025 13:48:04 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Apr 2025 13:57:21 GMT</lastBuildDate>
 <item>
   <title>🇬🇧 Curriculum vitae (CV)</title>
   <link>https://emilyncosta.com/CV/cv-eng/</link>
@@ -70,7 +70,7 @@ Education and Career Experience
 </section>
 <section id="cv---documment" class="level2">
 <h2 class="anchored" data-anchor-id="cv---documment">CV - Documment</h2>
-<p>My updated CV (on 08-JAN-2025) can be obtained <a href="Emilyn_CV_08JAN2025.pdf">here</a>.</p>
+<p>My updated CV (on 08-JAN-2025) can be obtained <a href="./Emilyn_CV_08JAN2025.pdf">here</a>.</p>
 </section>
 </div>
 <p><!-- Close justify div --></p>
@@ -81,7 +81,7 @@ Education and Career Experience
 
  ]]></description>
   <guid>https://emilyncosta.com/CV/cv-eng/</guid>
-  <pubDate>Mon, 28 Apr 2025 13:48:04 GMT</pubDate>
+  <pubDate>Mon, 28 Apr 2025 13:57:21 GMT</pubDate>
   <media:content url="https://emilyncosta.com/CV/cv-eng/emilyncv.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -143,7 +143,7 @@ Educação e Experiência Profissional
 </section>
 <section id="documento---cv" class="level2">
 <h2 class="anchored" data-anchor-id="documento---cv">Documento - CV</h2>
-<p>O meu CV atualizado (no dia 08-JAN-2025) pode ser obtido <a href="Emilyn_CV_08JAN2025PT.pdf">aqui</a>.</p>
+<p>O meu CV atualizado (no dia 08-JAN-2025) pode ser obtido <a href="./Emilyn_CV_08JAN2025PT.pdf">aqui</a>.</p>
 </section>
 </div>
 <p><!-- Close justify div --></p>
@@ -154,7 +154,7 @@ Educação e Experiência Profissional
 
  ]]></description>
   <guid>https://emilyncosta.com/CV/cv-pt/</guid>
-  <pubDate>Mon, 28 Apr 2025 13:48:04 GMT</pubDate>
+  <pubDate>Mon, 28 Apr 2025 13:57:21 GMT</pubDate>
   <media:content url="https://emilyncosta.com/CV/cv-pt/emilyncv.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
