@@ -15,7 +15,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: cv
+      - href: CV
         text: CV
       - href: posts
         text: Blog
