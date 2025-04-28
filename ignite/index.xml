@@ -193,9 +193,7 @@ Program.”</span> <a href="https://emilyncosta.com/ignite/ignite/index.en.html"
 <p>Bem-vinda(o)!</p>
 </blockquote>
 <div style="text-align: center; margin: 20px 0;">
-<img src="https://emilyncosta.com/ignite/ignite.jpg" alt="Ilustração por Emilyn Costa via ChatGPT" style="max-width: 50%; height: auto; border-radius: 8px;">
-</div>
-<div style="text-align: justify">
+<p><video controls="" style="max-width: 50%; border-radius: 8px;"> <source src="../../ignite/ignite-video.mp4" type="video/mp4"> Your browser does not support the video tag. </video></p>
 <section id="o-que-é-o-ignite" class="level2">
 <h2 class="anchored" data-anchor-id="o-que-é-o-ignite"><span style="color: #856A00;">O que é o IGNITE?</span></h2>
 <p>A palavra “ignite”, segundo o dicionário, significa “pegar fogo ou causar combustão” ou “despertar ou inflamar uma emoção ou situação”. Metaforicamente, ignite representa acender a paixão, a inspiração ou provocar uma onda intensa de atividade ou emoção. Pode descrever o despertar do entusiasmo, o acender de uma chama interior ou o desencadeamento de uma mudança poderosa ou transformadora.</p>
@@ -314,6 +312,9 @@ Program.”</span> <a href="https://emilyncosta.com/ignite/ignite/index.en.html"
 <section id="contato" class="level2">
 <h2 class="anchored" data-anchor-id="contato"><span style="color: #856A00;">CONTATO</span></h2>
 <p>Se você tem ideias, dúvidas ou deseja se envolver no IGNITE como patrocinadora, mentora ou mentorada, envie um e-mail para emilyncosta@gmail.com.</p>
+<div style="text-align: center; margin: 20px 0;">
+<img src="https://emilyncosta.com/ignite/ignite.jpg" alt="Ilustração por Emilyn Costa via ChatGPT" style="max-width: 50%; height: auto; border-radius: 8px;">
+</div>
 
 
 </section>
