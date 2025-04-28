@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Emilyn Costa</title>
+<link>https://emilyncosta.com/CV/</link>
+<atom:link href="https://emilyncosta.com/CV/index.xml" rel="self" type="application/rss+xml"/>
+<description>Emilyn Costa is a biologist/microbiologist working at the intersection of genomics, epidemiology and public health.</description>
+<generator>quarto-1.7.22</generator>
+<lastBuildDate>Mon, 28 Apr 2025 13:48:04 GMT</lastBuildDate>
+<item>
+  <title>🇬🇧 Curriculum vitae (CV)</title>
+  <link>https://emilyncosta.com/CV/cv-eng/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+<h1 style="text-align: center;">
+Education and Career Experience
+</h1>
+<p><img src="https://emilyncosta.com/CV/cv-eng/emilyncv.jpeg" alt="Emilyn Costa" style="width: 200px; border-radius: 20%; margin-bottom: 10px;"></p>
+<div style="text-align: center; margin-bottom: 20px;">
+<p><a href="http://lattes.cnpq.br/4561326931035190">Lattes</a> | <a href="https://www.linkedin.com/in/emilyncosta/">LinkedIn</a> | <a href="https://x.com/emilyncosta">Twitter</a> | <a href="https://github.com/emilyncosta">GitHub</a> | <a href="https://orcid.org/0000-0002-7445-6620">ORCID</a> | <a href="https://scholar.google.com.br/citations?user=QfjcZKoAAAAJ&amp;hl=pt-BR">Google Scholar</a> | <a href="https://www.webofscience.com/wos/author/record/K-1170-2015">ResearcherID</a> | <a href="mailto:emilyncosta@gmail.com">Email</a> |</p>
+</div>
+</div>
+<!-- Force one column -->
+<div style="max-width: 100%; column-count: 1;">
+<div style="text-align: justify">
+<section id="key-research-interests" class="level2">
+<h2 class="anchored" data-anchor-id="key-research-interests">Key research interests</h2>
+<p>My key professional interests include:</p>
+<ul>
+<li><p><strong>🧫 Exploring the diversity of Mycobacterium species</strong> through a One Health lens, identifying them in animals, the environment, and clinical samples — part detective work, part microbial safari 🐾🌱.</p></li>
+<li><p><strong>🧬 Using molecular epidemiology tools</strong> like spoligotyping and MIRU-VNTR to understand how TB and leprosy spread.</p></li>
+<li><p><strong>📊 Studying TB transmission</strong> with a precision health twist, powered by whole genome sequencing (WGS) — it’s like giving TB a DNA test and tracking its every move.</p></li>
+<li><p><strong>💊 Investigating how mycobacteria develop resistance to antibiotics</strong>, and comparing what we see in the lab (phenotype) with what’s in their DNA (genotype).</p></li>
+<li><p><strong>⚡ Evaluating high-performance, rapid diagnostic tests for TB</strong> including some that work directly from patient samples and are compatible with next-gen sequencing (NGS).</p></li>
+<li><p><strong>💻 Developing GEMIBRA</strong>:, the Brazilian Mycobacterial Genome Platform, to support national disease surveillance.</p></li>
+<li><p><strong>🧠 Promoting science and health education</strong> by creating educational tools and community engagement strategies — because science should never stay locked in the lab.</p></li>
+</ul>
+</section>
+<section id="teaching" class="level2">
+<h2 class="anchored" data-anchor-id="teaching">Teaching</h2>
+<p>Teaching-wise, I also gained experience in higher education between 2012 and 2014 as a lecturer at UFPA and UEPA 🏫, including through Brazil’s national teacher training program (PARFOR/CAPES) 📚.</p>
+</section>
+<section id="clinical-trials" class="level2">
+<h2 class="anchored" data-anchor-id="clinical-trials">Clinical trials</h2>
+<p>On the clinical side, from 2019 to 2021 I worked in the Bacteriology and Bioassay Lab at INI/Fiocruz 🧫, part of the city’s TB reference lab, contributing to research for the AIDS Clinical Trials Group (ACTG) and TB-Alliance as a scientist in diagnostics and clinical research 🧍‍🔬.</p>
+<p>In 2021, I took the lead on the SMARTT study (Sequencing Mycobacteria and Algorithm-Determined Resistant Tuberculosis Treatment) 🧪, and now I coordinate a sub-study in South Africa focused on applying WGS for managing drug-resistant TB — it’s called PARR-TB, part of the broader GenPath Africa project 🌍 on pathogen genomics for public health.</p>
+</section>
+<section id="research-in-brazil" class="level2">
+<h2 class="anchored" data-anchor-id="research-in-brazil">Research in Brazil</h2>
+<p>Back in Brazil 🇧🇷, I co-coordinate the TB Surveillance Network for Northern and Northeastern Brazil (REVIGET N/NE), in collaboration with the Evandro Chagas Institute (IEC), where I’m mainly involved in lab training for WGS workflows, data analysis, and making sure no mycobacterial genome goes unexamined 🔍🧬.</p>
+<p>I’m also a proud member of the “Geoprocessing, Health and Environment” research group at IEC 🛰️ — because understanding where diseases happen is just as important as knowing why.</p>
+</section>
+<section id="professional-affiliations" class="level2">
+<h2 class="anchored" data-anchor-id="professional-affiliations">Professional affiliations</h2>
+<p><strong><a href="https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/members.aspx">TBG</a></strong> | Member since 2021</p>
+<p><strong><a href="https://torch-consortium.com/">TORCH</a></strong> | Member since 2021</p>
+<p><strong><a href="https://www.genpath-africa.org/">GenPath Africa</a></strong> | Member since 2023</p>
+<p><strong><a href="https://reviget.org/">REVIGET</a></strong> | Member since 2024</p>
+<p><strong><a href="https://www.esmycobacteriology.eu/">ESM</a></strong> | Registered Member since 2024</p>
+<p><strong><a href="http://sbmt.org.br/">SBMT</a></strong> | Registered Member 2024</p>
+<p><strong><a href="https://redetb.org.br/">RedeTB</a></strong> | Registered Member since 2024</p>
+</section>
+<section id="cv---documment" class="level2">
+<h2 class="anchored" data-anchor-id="cv---documment">CV - Documment</h2>
+<p>My updated CV (on 08-JAN-2025) can be obtained <a href="Emilyn_CV_08JAN2025.pdf">here</a>.</p>
+</section>
+</div>
+<p><!-- Close justify div --></p>
+</div>
+<p><!-- Close one column div --></p>
+
+
+
+ ]]></description>
+  <guid>https://emilyncosta.com/CV/cv-eng/</guid>
+  <pubDate>Mon, 28 Apr 2025 13:48:04 GMT</pubDate>
+  <media:content url="https://emilyncosta.com/CV/cv-eng/emilyncv.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>🇧🇷 Curriculum vitae (CV)</title>
+  <link>https://emilyncosta.com/CV/cv-pt/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+<h1 style="text-align: center;">
+Educação e Experiência Profissional
+</h1>
+<p><img src="https://emilyncosta.com/CV/cv-pt/emilyncv.jpeg" alt="Emilyn Costa" style="width: 200px; border-radius: 20%; margin-bottom: 10px;"></p>
+<div style="text-align: center; margin-bottom: 20px;">
+<p><a href="http://lattes.cnpq.br/4561326931035190">Lattes</a> | <a href="https://www.linkedin.com/in/emilyncosta/">LinkedIn</a> | <a href="https://x.com/emilyncosta">Twitter</a> | <a href="https://github.com/emilyncosta">GitHub</a> | <a href="https://orcid.org/0000-0002-7445-6620">ORCID</a> | <a href="https://scholar.google.com.br/citations?user=QfjcZKoAAAAJ&amp;hl=pt-BR">Google Scholar</a> | <a href="https://www.webofscience.com/wos/author/record/K-1170-2015">ResearcherID</a> | <a href="mailto:emilyncosta@gmail.com">Email</a> |</p>
+</div>
+</div>
+<!-- Force one column -->
+<div style="max-width: 100%; column-count: 1;">
+<div style="text-align: justify">
+<section id="principais-interesses-de-pesquisa" class="level2">
+<h2 class="anchored" data-anchor-id="principais-interesses-de-pesquisa">Principais interesses de pesquisa</h2>
+<p>Meus principais interesses profissionais incluem:</p>
+<ul>
+<li><p><strong>🧫 Explorar a diversidade de espécies do gênero <em>Mycobacterium</em></strong> sob uma perspectiva de Saúde Única, identificando-as em animais, no ambiente e em amostras clínicas — parte trabalho de detetive, parte safári microbiano 🐾🌱.</p></li>
+<li><p><strong>🧬 Utilizar ferramentas de epidemiologia molecular</strong> como o spoligotyping e o MIRU-VNTR para entender como a TB e a hanseníase se espalham.</p></li>
+<li><p><strong>📊 Estudar a transmissão da TB</strong> com uma abordagem de saúde de precisão, impulsionada pelo sequenciamento de genoma completo (WGS) — é como fazer um teste de DNA na TB e rastrear cada movimento dela.</p></li>
+<li><p><strong>💊 Investigar como as micobactérias desenvolvem resistência a antibióticos</strong>, e comparar o que observamos no laboratório (fenótipo) com o que está em seu DNA (genótipo).</p></li>
+<li><p><strong>⚡ Avaliar testes de diagnóstico rápido e de alto desempenho para TB</strong>, incluindo alguns que funcionam diretamente de amostras de pacientes e são compatíveis com o sequenciamento de nova geração (NGS).</p></li>
+<li><p><strong>💻 Desenvolver o GEMIBRA</strong>: a Plataforma Genômica Brasileira de Micobactérias, para apoiar a vigilância nacional de doenças.</p></li>
+<li><p><strong>🧠 Promover a educação científica e em saúde</strong> através da criação de ferramentas educacionais e estratégias de engajamento comunitário — porque a ciência nunca deve ficar trancada no laboratório.</p></li>
+</ul>
+</section>
+<section id="ensino" class="level2">
+<h2 class="anchored" data-anchor-id="ensino">Ensino</h2>
+<p>No âmbito do ensino, também adquiri experiência no ensino superior entre 2012 e 2014 como professora substituta na UFPA e na UEPA 🏫, inclusive através do programa nacional de formação de professores (PARFOR/CAPES) 📚.</p>
+</section>
+<section id="ensaios-clínicos" class="level2">
+<h2 class="anchored" data-anchor-id="ensaios-clínicos">Ensaios clínicos</h2>
+<p>Na área clínica, de 2019 a 2021 trabalhei no Laboratório de Bacteriologia e Bioensaios do INI/Fiocruz 🧫, parte do laboratório de referência em TB da cidade, contribuindo para pesquisas do AIDS Clinical Trials Group (ACTG) e da TB-Alliance como cientista em diagnóstico e pesquisa clínica 🧍‍🔬.</p>
+<p>Em 2021, assumi a liderança do estudo SMARTT (Sequenciamento de Micobactérias e Tratamento da Tuberculose Resistente Determinado por Algoritmo) 🧪, e agora coordeno um subestudo na África do Sul focado na aplicação do WGS para o manejo da TB resistente a medicamentos — chamado PARR-TB, parte do projeto mais amplo GenPath Africa 🌍 sobre genômica de patógenos para saúde pública.</p>
+</section>
+<section id="pesquisa-no-brasil" class="level2">
+<h2 class="anchored" data-anchor-id="pesquisa-no-brasil">Pesquisa no Brasil</h2>
+<p>De volta ao Brasil 🇧🇷, coordeno a Rede de Vigilância da TB do Norte e Nordeste do Brasil (REVIGET N/NE), em colaboração com o Instituto Evandro Chagas (IEC), onde estou principalmente envolvida no treinamento laboratorial para fluxos de trabalho de WGS, análise de dados e garantindo que nenhum genoma micobacteriano passe despercebido 🔍🧬.</p>
+<p>Também sou um membro orgulhoso do grupo de pesquisa “Geoprocessamento, Saúde e Meio Ambiente” do IEC 🛰️ — porque entender onde as doenças acontecem é tão importante quanto saber por quê.</p>
+</section>
+<section id="afiliações-profissionais" class="level2">
+<h2 class="anchored" data-anchor-id="afiliações-profissionais">Afiliações profissionais</h2>
+<p><strong><a href="https://www.sun.ac.za/english/faculty/healthsciences/Molecular_Biology_Human_Genetics/tbgenomics/Pages/members.aspx">TBG</a></strong> | Member since 2021</p>
+<p><strong><a href="https://torch-consortium.com/">TORCH</a></strong> | Membro desde 2021</p>
+<p><strong><a href="https://www.genpath-africa.org/">GenPath Africa</a></strong> | Membro desde 2023</p>
+<p><strong><a href="https://reviget.org/">REVIGET</a></strong> | Membro desde 2024</p>
+<p><strong><a href="https://www.esmycobacteriology.eu/">ESM</a></strong> | Membro registrado desde 2024</p>
+<p><strong><a href="http://sbmt.org.br/">SBMT</a></strong> | Membro registrado desde 2024</p>
+<p><strong><a href="https://redetb.org.br/">RedeTB</a></strong> | Membro registrado desde 2024</p>
+</section>
+<section id="documento---cv" class="level2">
+<h2 class="anchored" data-anchor-id="documento---cv">Documento - CV</h2>
+<p>O meu CV atualizado (no dia 08-JAN-2025) pode ser obtido <a href="Emilyn_CV_08JAN2025PT.pdf">aqui</a>.</p>
+</section>
+</div>
+<p><!-- Close justify div --></p>
+</div>
+<p><!-- Close one column div --></p>
+
+
+
+ ]]></description>
+  <guid>https://emilyncosta.com/CV/cv-pt/</guid>
+  <pubDate>Mon, 28 Apr 2025 13:48:04 GMT</pubDate>
+  <media:content url="https://emilyncosta.com/CV/cv-pt/emilyncv.jpeg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
